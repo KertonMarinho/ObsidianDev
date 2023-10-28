@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "8a8e4096bb6be274",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d55f3470b86921a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6db0d40cfbd42eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f34f0930d2336ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos do terminal do windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ed0dc1ea438b4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos do terminal do windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf03763021d7cd7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cad923f37fedd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cores Markedown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb0d67054dbc95e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a1eed6b9b48c83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae41272a405aba69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0caa4679eca1079e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "763b6e1f7dee0fab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7eb5565333f00555",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a39a6e90cbbfccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "301aabb09ce66ac1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cores Markedown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd8e20a20f4148f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cores Markedown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9079000c1ee89fa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfef28dc9553f774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cores Markedown.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7cad923f37fedd01",
+  "lastOpenFiles": [
+    "Comandos Markdown.md",
+    "Cores Markedown.md",
+    "Comandos do terminal do windows.md",
+    "Design e Desenvolvimento de sistemas/Ux -Use experientive.md",
+    "Pasted image 20231025215904.png.md",
+    "Design e Desenvolvimento de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
+    "Design e Desenvolvimento de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
+    "Design e Desenvolvimento de sistemas/Prototipação.md",
+    "Design e Desenvolvimento de sistemas/Licença de software.md",
+    "Design e Desenvolvimento de sistemas/Ciclo de vida do software.md",
+    "Design e Desenvolvimento de sistemas/Arquitetura de software.md",
+    "Design e Desenvolvimento de sistemas/Arquitetura de informação.md",
+    "Anexos/WhatsApp Image 2023-10-28 at 08.59.33 1.jpeg",
+    "Anexos/Servidor de hospedagem gratis webHost 1.md",
+    "Anexos/Roteiro Utilizacao Figma 1.pdf",
+    "Anexos/progit (1) 2.pdf",
+    "Anexos/progit (1) 1 1.pdf",
+    "Anexos/Pasted image 20231028083618 1.png",
+    "Anexos/Pasted image 20231028083529 1.png",
+    "Anexos/Pasted image 20231028083251 1.png",
+    "Anexos/Pasted image 20231028083052 1.png",
+    "Anexos/Pasted image 20231026223000 1.png",
+    "Anexos/Pasted image 20231025215904 1.png",
+    "Anexos/Pasted image 20231025214330 1.png",
+    "Anexos/Pasted image 20231025213250 1.png",
+    "Anexos/Pasted image 20231024220553 1.png",
+    "Anexos/Servidor de hospedagem gratis webHost.md",
+    "Anexos/Roteiro Utilizacao Figma.pdf",
+    "Anexos/progit (1).pdf",
+    "Anexos/progit (1) 1.pdf",
+    "Anexos",
+    "pi",
+    "Design de sistemas e desenvolvimento de sistamas.md",
+    "Design e Desenvolvimento de sistemas",
+    "Javascript",
+    "Sem título 1.md",
+    "Sem.md"
+  ]
+}
