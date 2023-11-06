@@ -28,3 +28,34 @@
 - Pode ser amplamente definida como a integração do computador com equipamento de telecomunicações para armazenamento de dados.
 ---
 ![[Pasted image 20231030223911.png]]
+
+----
+# ETAPAS DP DESENVOVIMENTO DE SISTEMAS
+1. Levantamento do sistemas
+2. Análise de necessidades
+3. Projeto
+4. Implementação
+5. teste
+6. Mudança
+7. Manutenção
+---
+## Levantamento de sistemas
+- Consiste em três pontos principais:
+	1. Identificação do sistemas:
+		- Visa identificar os problemas enfrentados pela empresa e o sistema que ela possui
+	2. Seleção:
+		- Esta fase aplicará pontos de avaliação do projeto de desenvolvimento para garantir que as soluções sejam criadas de acordo com as metas esperadas da empresa.
+	3. Planejamento de sistema:
+		- É a etapa de desenvolvimento de um plano formal para começar a trabalhar e implemento de sistemas de informação que foi escolhido.
+---
+## Análise de requisitos
+- É uma técnica para e resolver problemas decompondo os componentes do sistemas. O objetivo é descobrir mais sobre como cada componente funciona e a interação entre um componente com outros componentes.
+---
+# Projeto
+- O projeto ou projeto de desenvolvimento de sistemas destina-se a desenvolvimento do sistema destina-se a fornecer um plano completo como diretriz para a equipe de Ti(especialmente programadores) na criação do aplicativos
+---
+## Implementação
+- A etapa de desenvolvimento deste sistemas de informação é trabalhar em um desenvolvimento previamente desenhado.
+---
+## Teste
+- Um sistema precisa ser testado para garantir que o desenvolvimento realizado seja adequado ou não com os resultados esperados. Os testes aplicados são diversos, como desempenho, eficiência de entrada, sintaxe(lógica do programa), saída, etc.
