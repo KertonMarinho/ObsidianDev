@@ -34,6 +34,7 @@
 <span style="color:purple">purple</span> 
 ```
 
+
 <span style="color:salmon">salmon</span> 
 ```
 <span style="color:salmon">salmon</span> 
@@ -49,6 +50,10 @@
 <span style="color:aquamarine">aquamarine</span> 
 ```
 
+## <span style="color:#32CD32">LimeGreen</span> 
+```
+ <span style="color:#32CD32">LimeGreen</span> 
+```
 <span style="color:red">red</span> 
 ```
 <span style="color:red">red</span> 
@@ -69,7 +74,19 @@
 <span style="color: #1E90FF">DodgerBlue</span>
 ```
 
+## <span style="color:#40E0D0">MediumTurquoise</span>
+```
+## <span style="color:#40E0D0">MediumTurquoise</span>
+```
 
+## <span style="color:#8A2BE2">BlueViolet</span> 
+```
+<span style="color:#8A2BE2">BlueViolet</span>
+```
+## <span style="color:#FF4500">OrangeRed</span>
+```
+<span style="color:#FF4500">OrangeRed</span>
+```
 ----
 https://www.henriqueguimaraes.com/tabela-de-cores-html-com-nome-rgb-e-hexadecimal/
 

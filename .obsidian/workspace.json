@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
+                "file": "Desenvolvimento mobile/Grossário.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "f98a28654f854cc7",
+        "id": "0c7971c2a6380879",
         "type": "tabs",
         "children": [
           {
-            "id": "3577ae7aa5b478e2",
+            "id": "b4b0c6b0c0f7f499",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
+                "file": "Desenvolvimento mobile/Grossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
+                "file": "Desenvolvimento mobile/Grossário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md"
+                "file": "Desenvolvimento mobile/Grossário.md"
               }
             }
           }
@@ -166,19 +166,27 @@
   },
   "active": "626a3402bf890461",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20231105223405.png",
-    "Anexos/Pasted image 20231105222658.png",
     "Cores Markedown.md",
-    "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
-    "Anexos/Pasted image 20231105221910.png",
-    "Anexos/Pasted image 20231105221421.png",
-    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
-    "Design e Desenvolvimento de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
+    "Desenvolvimento mobile/Grossário.md",
+    "Anexos/Pasted image 20231106223632.png",
+    "Anexos/Pasted image 20231106223012.png",
+    "Sem título.md",
+    "Desenvolvimento mobile",
+    "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
     "Design e Desenvolvimento de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
+    "Design e Desenvolvimento de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
+    "Design e Desenvolvimento de sistemas/Ux -Use experientive.md",
     "Design e Desenvolvimento de sistemas/Licença de software.md",
+    "Design e Desenvolvimento de sistemas/Prototipação.md",
     "Design e Desenvolvimento de sistemas/Ciclo de vida do software.md",
     "Design e Desenvolvimento de sistemas/Arquitetura de software.md",
     "Design e Desenvolvimento de sistemas/Arquitetura de informação.md",
+    "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
+    "Anexos/Pasted image 20231105223405.png",
+    "Anexos/Pasted image 20231105222658.png",
+    "Anexos/Pasted image 20231105221910.png",
+    "Anexos/Pasted image 20231105221421.png",
+    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Sem título 1.canvas",
@@ -187,18 +195,13 @@
     "Anexos/Pasted image 20231030223911.png",
     "Anexos/Pasted image 20231030213711.png",
     "SISTEMAS DE INFORMAÇÃO",
-    "Design e Desenvolvimento de sistemas/Ux -Use experientive.md",
     "Pasted image 20231025215904.png.md",
-    "Design e Desenvolvimento de sistemas/Prototipação.md",
     "Anexos/WhatsApp Image 2023-10-28 at 08.59.33 1.jpeg",
     "Anexos/Servidor de hospedagem gratis webHost 1.md",
     "Anexos/Roteiro Utilizacao Figma 1.pdf",
     "Anexos/progit (1) 2.pdf",
     "Anexos/progit (1) 1 1.pdf",
     "Anexos/Pasted image 20231028083618 1.png",
-    "Anexos/Pasted image 20231028083529 1.png",
-    "Anexos/Pasted image 20231028083251 1.png",
-    "Anexos/Pasted image 20231028083052 1.png",
     "Anexos/Servidor de hospedagem gratis webHost.md",
     "Anexos/Roteiro Utilizacao Figma.pdf",
     "Anexos/progit (1).pdf",
@@ -206,7 +209,6 @@
     "Anexos",
     "pi",
     "Design de sistemas e desenvolvimento de sistamas.md",
-    "Design e Desenvolvimento de sistemas",
     "Sem título 1.md",
     "Sem.md"
   ]
