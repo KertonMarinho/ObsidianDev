@@ -59,3 +59,44 @@
 ---
 ## Teste
 - Um sistema precisa ser testado para garantir que o desenvolvimento realizado seja adequado ou não com os resultados esperados. Os testes aplicados são diversos, como desempenho, eficiência de entrada, sintaxe(lógica do programa), saída, etc.
+- ---
+![[Pasted image 20231113210058.png]]
+
+---
+## As funções básicas de segurança devem estar alinhadas com os seguintes passos:
+## Dissuasão
+- Para que ocorra o desencorajamento a prática de irregularidades
+## Prevenção
+- Como intuito de reduzir a ocorrência dos riscos
+## Detecção
+- Para sinalizar a ocorrência dos riscos
+## Contenção
+- Limitar o impacto do risco
+## Recuperação
+- Ter alternativa para a continuidade operacional
+## Restauração
+-  Corrigir os danos causados pelos riscos
+
+---
+
+# <span style="color:purple">Vulnerabilidade de sistemas</span>
+-É uma falha pu fraqeuza em um sistema ou rede que pode ser explorada para causar danos pu permitir que um invasor manipule o sistema de alguma forma
+
+![[Pasted image 20231113213216.png]]
+
+# Medidas de segurança: senha e backup
+- Exigir senhas fortes
+- Alterar a senha regularmente
+- Treinar os funcionários para nõ forneccerem senhas
+- Fazer backup regulares de  todos os dados
+- Armazenar externamente conjuntos de dados de backup
+- Realizar teste de restaurações de dados
+---
+# TIPOS DE ARMAZENAMENTO PARA ORGANIZAÇÕES
+## <span style="color:aquamarine">Armazenamento de blocos</span>
+- Padrão para HDDs e SSDs e oferece desempenho robusto
+## <span style="color:yellow">Armazenamento de arquivos</span>
+- Coloca arquivos em pastas e oferece simplicidade
+
+##  <span style="color:#32CD32">Armazenamento de objetos</span>
+- Organiza de forma eficiente os dados não estruturados a um custo comparativo baixo
