@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "Desenvolvimento mobile/Microsoft Power Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "Desenvolvimento mobile/Microsoft Power Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "Desenvolvimento mobile/Microsoft Power Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md"
+                "file": "Desenvolvimento mobile/Microsoft Power Apps.md"
               }
             }
           }
@@ -166,12 +166,14 @@
   },
   "active": "626a3402bf890461",
   "lastOpenFiles": [
+    "Desenvolvimento mobile/CONCEITOS.md",
+    "Desenvolvimento mobile/Microsoft Power Apps.md",
     "Cores Markedown.md",
+    "Desenvolvimento mobile/Grossário.md",
     "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
     "Anexos/Pasted image 20231113213216.png",
     "Anexos/Pasted image 20231113210058.png",
     "Design e Desenvolvimento de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
-    "Desenvolvimento mobile/Grossário.md",
     "Anexos/Pasted image 20231107220046.png",
     "Anexos/Pasted image 20231107215425.png",
     "Anexos/Pasted image 20231106223632.png",

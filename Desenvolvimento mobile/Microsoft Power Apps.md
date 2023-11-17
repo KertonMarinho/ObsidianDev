@@ -1,0 +1,7 @@
+- É um conjunto de aplicativos, serviços e conectores, além de uma plataforma de dados
+- É um ambiente de desenvolvimento rápido de aplicativos, que permite criar apps personalizados
+- Possibilita a conexão dos aplicativos a dados armazenados em uma platafroma subjacente de dados (Microsoft Dataverse) ou em várias fontes de dados online e locais, como Sharepoint, Microsoft 365, Dynamics 365, SQL Server, entre outras.
+- Os aplicativos criados no Power apps oferecem funcionalidades avançadas de fluxo de trabalho e lógica de negócios
+- Transformam as operações manuais em processos digitais e automatizados
+- O Power Apps Studio é o designer de aplicativo usado para a criação de aplicativos de tela
+- O design de aplicativos pareça com uma apresentação de slide do Microsoft PowerPoint
