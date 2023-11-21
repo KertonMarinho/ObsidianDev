@@ -100,3 +100,20 @@
 
 ##  <span style="color:#32CD32">Armazenamento de objetos</span>
 - Organiza de forma eficiente os dados não estruturados a um custo comparativo baixo
+
+---
+![[Pasted image 20231120220955.png]]---
+---
+---
+# <span style="color:yellow">SCM(SUPPLY CHAIN MANAGEMENT)</span>
+- Sistema de gestão da cadeia de suprimentos
+- Sistemas inteorganizacionais pela caract. de automatizar o fluxo de informação através da fronteira organizacional
+- Funções:
+	- Administração de ordens e de estoque
+	- Planejamento das demandas e desenvolvimento de previsões
+	- Operação de centrais de distribuição
+	- Gerenciamento de transportes
+
+# <span style="color:yellow">CRM(Customer Relationship Management</span>
+- Gerenciamento do relacionamento com o cliente CRM
+- Pode ser considerado uma arquitetura que combina processos de negócios e tecnologias e que tem como objetivos principais atender os clientes, identificar quem são eles, o que fazem e do que gostam.

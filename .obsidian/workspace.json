@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento mobile/Microsoft Power Apps.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento mobile/Microsoft Power Apps.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento mobile/Microsoft Power Apps.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento mobile/Microsoft Power Apps.md"
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md"
               }
             }
           }
@@ -166,11 +166,12 @@
   },
   "active": "626a3402bf890461",
   "lastOpenFiles": [
-    "Desenvolvimento mobile/CONCEITOS.md",
-    "Desenvolvimento mobile/Microsoft Power Apps.md",
     "Cores Markedown.md",
-    "Desenvolvimento mobile/Grossário.md",
     "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+    "Anexos/Pasted image 20231120220955.png",
+    "Desenvolvimento mobile/Microsoft Power Apps.md",
+    "Desenvolvimento mobile/CONCEITOS.md",
+    "Desenvolvimento mobile/Grossário.md",
     "Anexos/Pasted image 20231113213216.png",
     "Anexos/Pasted image 20231113210058.png",
     "Design e Desenvolvimento de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
@@ -192,7 +193,6 @@
     "Anexos/Pasted image 20231105223405.png",
     "Anexos/Pasted image 20231105222658.png",
     "Anexos/Pasted image 20231105221910.png",
-    "Anexos/Pasted image 20231105221421.png",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Sem título 1.canvas",
