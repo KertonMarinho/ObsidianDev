@@ -117,3 +117,26 @@
 # <span style="color:yellow">CRM(Customer Relationship Management</span>
 - Gerenciamento do relacionamento com o cliente CRM
 - Pode ser considerado uma arquitetura que combina processos de negócios e tecnologias e que tem como objetivos principais atender os clientes, identificar quem são eles, o que fazem e do que gostam.
+- ---
+# BI(Business Inteligence)
+- Pode ser traduzido literalmente como "inteligência nos negócios";
+- O objetivo é que o tomador de decisão tenha em mãos, no momento em que desejar, todas as informações relevantes para suportar o processo de decisão.
+![[Pasted image 20231121214247.png]]
+---
+# <span style="color:yellow">Data Warehouse</span>
+São grande armazéns de dados alimentados com dados transacionais oriundo dos diversos bancos de dados da empresa, inclusive dos sistemas ERP. O que diferencia do conceito de banco de dados é a não volatilidade destes dados, ou seja, o fato de não alterarem seu conteúdo com grande periodicidade
+- O data mart pode ser considerado um data departamental
+![[Pasted image 20231121215111.png]]
+### Data mining
+- Ou mineração de dados
+- Pode ser definido como o porcesso de extração de informações desconhecidas de um data warehouse ou de um data mart. 
+- Emprega tecnologia artificial e poder ser definido com a extração automática de dados sobre padrões, tendências, associações, mudanças e anomalias previamente não identificadas.
+
+### OLAP(online analytical)
+- Processamento analítico online
+- É uma tecnologia que o usuário extrair informações de um data Warehouse e data Mart de forma customizada, simples e interativa
+- Diferente do data mining, que não possibilita a interação do usuário na busca por informações úteis, as ferramentas OLAP se tornaram um grande aliado dos tomadores de decisão
+
+---
+![[Pasted image 20231121220434.png]]
+![[Pasted image 20231121220523.png]]

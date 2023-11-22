@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md"
+                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md"
               }
             }
           }
@@ -166,8 +166,13 @@
   },
   "active": "626a3402bf890461",
   "lastOpenFiles": [
-    "Cores Markedown.md",
     "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+    "SISTEMAS DE INFORMAÇÃO/Big data.md",
+    "Anexos/Pasted image 20231121220523.png",
+    "Anexos/Pasted image 20231121220434.png",
+    "Anexos/Pasted image 20231121215111.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20231121214247.png",
     "Anexos/Pasted image 20231120220955.png",
     "Desenvolvimento mobile/Microsoft Power Apps.md",
     "Desenvolvimento mobile/CONCEITOS.md",
@@ -178,7 +183,6 @@
     "Anexos/Pasted image 20231107220046.png",
     "Anexos/Pasted image 20231107215425.png",
     "Anexos/Pasted image 20231106223632.png",
-    "Anexos/Pasted image 20231106223012.png",
     "Sem título.md",
     "Desenvolvimento mobile",
     "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
@@ -190,9 +194,6 @@
     "Design e Desenvolvimento de sistemas/Arquitetura de software.md",
     "Design e Desenvolvimento de sistemas/Arquitetura de informação.md",
     "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
-    "Anexos/Pasted image 20231105223405.png",
-    "Anexos/Pasted image 20231105222658.png",
-    "Anexos/Pasted image 20231105221910.png",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Sem título 1.canvas",
