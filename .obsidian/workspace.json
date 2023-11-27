@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Sigla de negócios eletrônicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Sigla de negócios eletrônicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Sigla de negócios eletrônicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/Big data.md"
+                "file": "SISTEMAS DE INFORMAÇÃO/Sigla de negócios eletrônicos.md"
               }
             }
           }
@@ -166,12 +166,15 @@
   },
   "active": "626a3402bf890461",
   "lastOpenFiles": [
-    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+    "Cores Markedown.md",
+    "SISTEMAS DE INFORMAÇÃO/Sigla de negócios eletrônicos.md",
+    "Anexos/Pasted image 20231126215206.png",
+    "Anexos/Pasted image 20231126215143.png",
     "SISTEMAS DE INFORMAÇÃO/Big data.md",
+    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
     "Anexos/Pasted image 20231121220523.png",
     "Anexos/Pasted image 20231121220434.png",
     "Anexos/Pasted image 20231121215111.png",
-    "Cores Markedown.md",
     "Anexos/Pasted image 20231121214247.png",
     "Anexos/Pasted image 20231120220955.png",
     "Desenvolvimento mobile/Microsoft Power Apps.md",
@@ -181,8 +184,6 @@
     "Anexos/Pasted image 20231113210058.png",
     "Design e Desenvolvimento de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
     "Anexos/Pasted image 20231107220046.png",
-    "Anexos/Pasted image 20231107215425.png",
-    "Anexos/Pasted image 20231106223632.png",
     "Sem título.md",
     "Desenvolvimento mobile",
     "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
@@ -211,8 +212,6 @@
     "Anexos/progit (1) 1.pdf",
     "Anexos",
     "pi",
-    "Design de sistemas e desenvolvimento de sistamas.md",
-    "Sem título 1.md",
-    "Sem.md"
+    "Design de sistemas e desenvolvimento de sistamas.md"
   ]
 }
