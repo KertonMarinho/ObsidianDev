@@ -11,5 +11,8 @@ D : direct, direto
 
 ----
 # <span style="color:red">Omnichanel</span> 
-- Integração  canais  como loja virtual, marleplace, social shopping
+- Integração  canais  como loja virtual, marketplace, social shopping
 ---
+#  <span style="color:#32CD32">SNA</span> 
+- Análise de redes sociais ou social network analysis
+- Método de identificação e mapeamento da estrutura social dentro de uma organização
