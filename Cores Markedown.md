@@ -76,7 +76,7 @@
 
 ## <span style="color:#40E0D0">MediumTurquoise</span>
 ```
-## <span style="color:#40E0D0">MediumTurquoise</span>
+<span style="color:#40E0D0">MediumTurquoise</span>
 ```
 
 ## <span style="color:#8A2BE2">BlueViolet</span> 

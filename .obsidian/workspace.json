@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos do terminal do windows.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos do terminal do windows.md"
+                "file": "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md"
               }
             }
           }
@@ -166,8 +166,10 @@
   },
   "active": "626a3402bf890461",
   "lastOpenFiles": [
-    "Comandos Markdown.md",
     "Cores Markedown.md",
+    "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
+    "Comandos do terminal do windows.md",
+    "Comandos Markdown.md",
     "SISTEMAS DE INFORMAÇÃO/OTIMIZAÇÃO DE SITE ( CONCEITOS ).md",
     "Sem título 1.canvas",
     "Sem título.canvas",
@@ -200,7 +202,6 @@
     "Design e Desenvolvimento de sistemas/Arquitetura de software.md",
     "Design e Desenvolvimento de sistemas/Arquitetura de informação.md",
     "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
-    "Comandos do terminal do windows.md",
     "SISTEMAS DE INFORMAÇÃO",
     "Pasted image 20231025215904.png.md",
     "Anexos/Servidor de hospedagem gratis webHost 1.md",
