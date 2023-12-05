@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/blockchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+                "file": "Cores Markedown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+                "file": "Cores Markedown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md"
+                "file": "Cores Markedown.md"
               }
             }
           }
@@ -164,11 +164,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "626a3402bf890461",
+  "active": "b4b0c6b0c0f7f499",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20231129222607.png",
+    "SISTEMAS DE INFORMAÇÃO/blockchain.md",
+    "Anexos/Pasted image 20231204224210.png",
     "Cores Markedown.md",
+    "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
     "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+    "Anexos/Pasted image 20231129222607.png",
     "Anexos/Pasted image 20231129215358.png",
     "Anexos/Pasted image 20231129215102.png",
     "Desenvolvimento mobile/Android Studio/Iniciar um projeto.md",
@@ -187,10 +190,8 @@
     "2023-10-31.md",
     "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
     "Anexos/Pasted image 20231126215206.png",
-    "Anexos/Pasted image 20231126215143.png",
     "SISTEMAS DE INFORMAÇÃO/Big data.md",
     "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
-    "Anexos/Pasted image 20231121220523.png",
     "Desenvolvimento mobile/Microsoft Power Apps.md",
     "Desenvolvimento mobile/CONCEITOS.md",
     "Desenvolvimento mobile/Grossário.md",
@@ -204,8 +205,6 @@
     "Design e Desenvolvimento de sistemas/Prototipação.md",
     "Design e Desenvolvimento de sistemas/Ciclo de vida do software.md",
     "Design e Desenvolvimento de sistemas/Arquitetura de software.md",
-    "Design e Desenvolvimento de sistemas/Arquitetura de informação.md",
-    "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
     "SISTEMAS DE INFORMAÇÃO",
     "Anexos/Roteiro Utilizacao Figma 1.pdf",
     "Anexos/progit (1) 2.pdf",
