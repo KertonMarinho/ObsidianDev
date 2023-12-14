@@ -18,21 +18,34 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0c7971c2a6380879",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "b4b0c6b0c0f7f499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b84092e113915f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e193f5ed98b90d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Cores Markedown.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cores Markedown.md",
+                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cores Markedown.md",
+                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cores Markedown.md"
+                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md"
               }
             }
           }
@@ -166,15 +179,22 @@
   },
   "active": "b4b0c6b0c0f7f499",
   "lastOpenFiles": [
+    "Desenvolvimento mobile/Android Studio/Iniciar um projeto.md",
+    "Desenvolvimento mobile/CONCEITOS.md",
+    "Desenvolvimento mobile/Grossário.md",
+    "Desenvolvimento mobile/Microsoft Power Apps.md",
+    "Desenvolvimento mobile/No-code.md",
+    "Cores Markedown.md",
+    "Desenvolvimento mobile/Inteligência artificial.md",
+    "Comandos Markdown.md",
+    "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
     "SISTEMAS DE INFORMAÇÃO/blockchain.md",
     "Anexos/Pasted image 20231204224210.png",
-    "Cores Markedown.md",
     "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
     "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
     "Anexos/Pasted image 20231129222607.png",
     "Anexos/Pasted image 20231129215358.png",
     "Anexos/Pasted image 20231129215102.png",
-    "Desenvolvimento mobile/Android Studio/Iniciar um projeto.md",
     "Anexos/Pasted image 20231129214750.png",
     "Anexos/Pasted image 20231129214330.png",
     "Anexos/Pasted image 20231129214030.png",
@@ -183,7 +203,6 @@
     "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
     "Desenvolvimento mobile/Android Studio",
     "Comandos do terminal do windows.md",
-    "Comandos Markdown.md",
     "SISTEMAS DE INFORMAÇÃO/OTIMIZAÇÃO DE SITE ( CONCEITOS ).md",
     "Sem título 1.canvas",
     "Sem título.canvas",
@@ -192,19 +211,14 @@
     "Anexos/Pasted image 20231126215206.png",
     "SISTEMAS DE INFORMAÇÃO/Big data.md",
     "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
-    "Desenvolvimento mobile/Microsoft Power Apps.md",
-    "Desenvolvimento mobile/CONCEITOS.md",
-    "Desenvolvimento mobile/Grossário.md",
     "Design e Desenvolvimento de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
     "Sem título.md",
     "Desenvolvimento mobile",
-    "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
     "Design e Desenvolvimento de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
     "Design e Desenvolvimento de sistemas/Ux -Use experientive.md",
     "Design e Desenvolvimento de sistemas/Licença de software.md",
     "Design e Desenvolvimento de sistemas/Prototipação.md",
     "Design e Desenvolvimento de sistemas/Ciclo de vida do software.md",
-    "Design e Desenvolvimento de sistemas/Arquitetura de software.md",
     "SISTEMAS DE INFORMAÇÃO",
     "Anexos/Roteiro Utilizacao Figma 1.pdf",
     "Anexos/progit (1) 2.pdf",

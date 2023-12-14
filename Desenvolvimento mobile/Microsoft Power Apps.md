@@ -5,3 +5,4 @@
 - Transformam as operações manuais em processos digitais e automatizados
 - O Power Apps Studio é o designer de aplicativo usado para a criação de aplicativos de tela
 - O design de aplicativos pareça com uma apresentação de slide do Microsoft PowerPoint
+- Ver como criar no APP, Fundamentos de desenvolvimento  mobile, aula 03, página 12

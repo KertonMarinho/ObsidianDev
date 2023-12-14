@@ -31,3 +31,6 @@
  - Permite a criação de aplicativos nativos para lojas Play Store e App Store, com funcionalidade off-line; versão gratuita
 ##  <span style="color:#32CD32">SAP Build Apps</span> 
 - É uma extensão do AppGyver com novas funcionalidades de integrações com tecnologia SAP(versão paga por US$ 26.830 )
+- ----
+# MIT APP INVENTOR
+- MIT App Inventor é um ambiente de programação visual intuitivo que permite a criação aplicativos funcionais para smartphones e tablets, com sistemas operacionais Android e iOS. A ferramenta utiliza a programação em blocos que facilita a criação de aplicativos complexos e de alto impacto em ambientes de programação significativamente menores em comparação aos ambientes tradicionais de programação, que utilizam linha de programação.
