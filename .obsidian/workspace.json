@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md"
+                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md"
               }
             }
           }
@@ -179,19 +179,26 @@
   },
   "active": "b4b0c6b0c0f7f499",
   "lastOpenFiles": [
+    "Cores Markedown.md",
+    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+    "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
+    "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
+    "SISTEMAS DE INFORMAÇÃO/blockchain.md",
+    "SISTEMAS DE INFORMAÇÃO/Big data.md",
+    "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
+    "SISTEMAS DE INFORMAÇÃO/OTIMIZAÇÃO DE SITE ( CONCEITOS ).md",
+    "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
+    "Anexos/Pasted image 20231214223025.png",
+    "Anexos/Pasted image 20231214220309.png",
+    "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
     "Desenvolvimento mobile/Android Studio/Iniciar um projeto.md",
     "Desenvolvimento mobile/CONCEITOS.md",
     "Desenvolvimento mobile/Grossário.md",
     "Desenvolvimento mobile/Microsoft Power Apps.md",
     "Desenvolvimento mobile/No-code.md",
-    "Cores Markedown.md",
     "Desenvolvimento mobile/Inteligência artificial.md",
     "Comandos Markdown.md",
-    "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
-    "SISTEMAS DE INFORMAÇÃO/blockchain.md",
     "Anexos/Pasted image 20231204224210.png",
-    "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
-    "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
     "Anexos/Pasted image 20231129222607.png",
     "Anexos/Pasted image 20231129215358.png",
     "Anexos/Pasted image 20231129215102.png",
@@ -199,18 +206,12 @@
     "Anexos/Pasted image 20231129214330.png",
     "Anexos/Pasted image 20231129214030.png",
     "Anexos/Pasted image 20231129213507.png",
-    "Anexos/Pasted image 20231129213204.png",
     "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
     "Desenvolvimento mobile/Android Studio",
     "Comandos do terminal do windows.md",
-    "SISTEMAS DE INFORMAÇÃO/OTIMIZAÇÃO DE SITE ( CONCEITOS ).md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "2023-10-31.md",
-    "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
-    "Anexos/Pasted image 20231126215206.png",
-    "SISTEMAS DE INFORMAÇÃO/Big data.md",
-    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
     "Design e Desenvolvimento de sistemas/TÓPICOS DE DESENVOLVIMENTO DE SISTEMAS.md",
     "Sem título.md",
     "Desenvolvimento mobile",
@@ -218,7 +219,6 @@
     "Design e Desenvolvimento de sistemas/Ux -Use experientive.md",
     "Design e Desenvolvimento de sistemas/Licença de software.md",
     "Design e Desenvolvimento de sistemas/Prototipação.md",
-    "Design e Desenvolvimento de sistemas/Ciclo de vida do software.md",
     "SISTEMAS DE INFORMAÇÃO",
     "Anexos/Roteiro Utilizacao Figma 1.pdf",
     "Anexos/progit (1) 2.pdf",

@@ -26,3 +26,17 @@
 - O que diferencia do conceito de banco de dados é a não volatilidade de dados, ou seja, o fato de não alterar seu conteúdo com grande periodicidade.
 - O data Mart pode ser considerado um data Warehouse tradicional.
 ![[Pasted image 20231105223405.png|360]]
+
+# Data Mart
+- É um subconjunto de dados com curadoria geralmente gerado para usuários de análise e inteligência de negócios. 
+- Os data marts geralmente são criados como um repositório de informações pertinentes para um subgrupo de trabalhadores ou um caso de uso específico. 
+- As empresas podem usar data marts para fornecer acesso de usuário àqueles que não podem acessar os dados.
+- Os data marts também podem ser menos caros para armazenamento e mais rápidos para análise, devido a seus projetos serem menores e mais especializados.
+
+# Data Mining ou Mineração de dados
+- É o processo de análise de dados para encontrar tendências, padrões e associações anteriormente desconhecidos para tomar decisões
+- Geralmente, a mineração de dados é realizada por meios automatizados em conjuntos de dados extremamente grandes, como um data warehouse”.
+- Em alguns casos, um projeto de mineração de dados é iniciado com um resultado hipotético em mente
+- Por exemplo, uma cadeia de supermercados pode já ter alguma ideia de que os padrões de compra mudam após a chuva e deseja obter uma compreensão mais profunda do que exatamente está acontecendo.
+- Em outros casos, não há pressupostos e um programa de
+20mineração de dados é executado em grandes conjuntos de dados para neles encontrar padrões e associações
