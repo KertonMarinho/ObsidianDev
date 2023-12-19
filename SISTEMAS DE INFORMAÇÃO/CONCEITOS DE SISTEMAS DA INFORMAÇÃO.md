@@ -160,7 +160,13 @@ Resource Planning) ou sistemas integrados, também conhecidos como sistemas de p
 # BI(Business Inteligence)
 - Pode ser traduzido literalmente como "inteligência nos negócios";
 - O objetivo é que o tomador de decisão tenha em mãos, no momento em que desejar, todas as informações relevantes para suportar o processo de decisão.
+- BI (Business Intelligence) é um conjunto de processos, arquiteturas e tecnologias que convertem dados brutos em informações significativas que impulsionam ações comerciais lucrativas. É um conjunto de software e serviços para transformar dados em inteligência e conhecimento acionáveis.
+- o sistema de inteligência de negócios (BI) consiste em três partes principais: coleta completa de dados, organização e apresentação razoáveis de dados e entrega de dados para aqueles que precisam deles de maneira conveniente e eficiente
+
 ![[Pasted image 20231121214247.png]]
+![[Pasted image 20231218211111.png]]
+![[Pasted image 20231218211122.png]]
+
 ---
 # <span style="color:yellow">Data Warehouse</span>
 São grande armazéns de dados alimentados com dados transacionais oriundo dos diversos bancos de dados da empresa, inclusive dos sistemas ERP. O que diferencia do conceito de banco de dados é a não volatilidade destes dados, ou seja, o fato de não alterarem seu conteúdo com grande periodicidade

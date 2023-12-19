@@ -40,3 +40,10 @@ O peso das imagens é um fator importante para o carregamento do site, por isso 
 ### <span style="color:salmon">Habilitar o cache</span> 
 - É uma técnica usada para armazenar temporiamente páginas da web para reduzir a largura de banda e melhorar o desempenho.
 - Quando um usuário visita o site e a página é armazenada em cache, a mesma página em cache será exibida ao usuário quando ele revisitar o site, a menos que tenha sido alterada desde o último cache.
+- ---
+# <span style="color:violet">Google Adwords(Google Ads)</span>
+- O Adwords é a plataforma que pode ser usada como anunciante para exibir seus anúncios nas páginas de resultados de pesquisa do Google, sites parceiros ou na Rede de Display do Google (sites que exibem anúncios do Google).
+- Uma das principais características do Adwords é que você só paga quando alguém clica no anúncio (Pay per Click). Ao criar uma conta no Adwords, você pode criar suas campanhas publicitárias, escolher seus anúncios e orçamento, decidir onde deseja que os anúncios apareçam e o Google só cobrará de você quando alguém clicar nos anúncios
+
+# <span style="color: #1E90FF">Google Adesense</span>
+- AdSense é a plataforma que você pode usar como webmaster para que os anúncios do Google sejam exibidos em seu site. É um serviço de publicidade, no qual os donos dos sites se inscrevem para exibir os anúncios e com isso gera lucros a partir da quantidade de cliques ou visualização

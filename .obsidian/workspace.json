@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+                "file": "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md"
+                "file": "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md"
               }
             }
           }
@@ -180,13 +180,17 @@
   "active": "b4b0c6b0c0f7f499",
   "lastOpenFiles": [
     "Cores Markedown.md",
-    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
-    "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
-    "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
+    "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
     "SISTEMAS DE INFORMAÇÃO/blockchain.md",
-    "SISTEMAS DE INFORMAÇÃO/Big data.md",
-    "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
+    "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
     "SISTEMAS DE INFORMAÇÃO/OTIMIZAÇÃO DE SITE ( CONCEITOS ).md",
+    "SISTEMAS DE INFORMAÇÃO/CONCEITOS DE SISTEMAS DA INFORMAÇÃO.md",
+    "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
+    "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
+    "SISTEMAS DE INFORMAÇÃO/Big data.md",
+    "Anexos/Pasted image 20231218211122.png",
+    "Anexos/Pasted image 20231218211111.png",
+    "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
     "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
     "Anexos/Pasted image 20231214223025.png",
     "Anexos/Pasted image 20231214220309.png",
@@ -204,9 +208,6 @@
     "Anexos/Pasted image 20231129215102.png",
     "Anexos/Pasted image 20231129214750.png",
     "Anexos/Pasted image 20231129214330.png",
-    "Anexos/Pasted image 20231129214030.png",
-    "Anexos/Pasted image 20231129213507.png",
-    "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
     "Desenvolvimento mobile/Android Studio",
     "Comandos do terminal do windows.md",
     "Sem título 1.canvas",
@@ -218,7 +219,6 @@
     "Design e Desenvolvimento de sistemas/TÓPICOS DE TESTES DE SOFTWARE, CONTROLE DE QUALIDADE E DEPLOY.md",
     "Design e Desenvolvimento de sistemas/Ux -Use experientive.md",
     "Design e Desenvolvimento de sistemas/Licença de software.md",
-    "Design e Desenvolvimento de sistemas/Prototipação.md",
     "SISTEMAS DE INFORMAÇÃO",
     "Anexos/Roteiro Utilizacao Figma 1.pdf",
     "Anexos/progit (1) 2.pdf",
