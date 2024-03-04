@@ -1,0 +1,3 @@
+- Objetivo principal da análise estruturada é a construção de um modelo lógico, e não de um modelo físico de sistema.
+- A análise estruturada utiliza técnica gráficas
+-  A análise estruturada produz uma especificação do sistema que define a estrutura do problema a ser resolvido, de acordod com a visão do usuário e na linguagem que possa se entendida pela equipe técnica
