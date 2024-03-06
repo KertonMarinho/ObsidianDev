@@ -24,3 +24,27 @@
 - É o compartilhamento de atributos e operações entre objetos com base em um relacionamento hierárquico
 - Permite que a estrutura comum seja compartilhada por diversos outros objetos relacionados, sem redundâncias
 - Cada objeto em um nível de hierarquia herda as características dos objetos nos níveis acima
+---
+# Componentes de um diagrama de caso de uso
+
+## <span style="color:red">Ator</span> 
+- Representa o papel executado por uma entidade que interage com o sistema em questão
+- Um ator troca informações com o sistema, e poder ser um indivíduo ou outros sistemas, ou seja, o ator interage com o sistema, ele não faz parte do sistema
+- Um usuário pode executar o papel de vários atores diferentes e um determinado ator pode ser representado por vários usuários
+
+## <span style="color: #00FF00">Relacionamento</span> 
+- Mostram a ligação entre os elementos de um diagrama de caso de uso, ou seja, mostram a ligação dos atores com os casos de uso e dos casos de uso entre si
+
+## <span style="color:violet">Relacionamento entre atores</span> 
+- A generalização é identificada quando temos dois atores semelhantes, mas com um deles realizando algo mais
+![[Pasted image 20240305224434.png|300]]
+
+## <span style="color:#FF4500">Relacionamento entre casos de uso</span>
+### <span style="color:#A9A9A9">Include</span>
+- Um relacionamento include de um casos de uso A para um caso B indica que B é essencial para o comportamento de A
+- Pode ser dito que ``B is_part_of A``
+### <span style="color:#A9A9A9">Extend</span>
+- Um relacionamento de um caso de uso B para um caso de uso A indica que o caso de uso B pode ser acrescentado para descrever o comportamento de A(não essencial)
+---
+# DIAGRAMA DE CASO DE USO
+![[Pasted image 20240305225439.png|500]]
