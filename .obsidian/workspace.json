@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de sistemas/UML.md",
+                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise de sistemas/UML.md",
+                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise de sistemas/UML.md",
+                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de sistemas/UML.md"
+                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md"
               }
             }
           }
@@ -191,30 +191,31 @@
   },
   "active": "8ee00d605126b41e",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240305225439.png",
+    "Anexos/Pasted image 20240314225627.png",
     "Cores Markedown.md",
+    "Análise de sistemas/DIAGRAMA DE CLASSES.md",
+    "Anexos/Pasted image 20240314225246.png",
+    "Anexos/Pasted image 20240314224815.png",
+    "Anexos/Pasted image 20240314224606.png",
+    "Anexos/Pasted image 20240314224138.png",
+    "Anexos/Pasted image 20240314224118.png",
+    "Anexos/Pasted image 20240314224014.png",
+    "Anexos/Pasted image 20240314223625.png",
+    "Anexos/Pasted image 20240314223543.png",
+    "Anexos/Pasted image 20240314223244.png",
+    "Anexos/Pasted image 20240314223155.png",
     "Análise de sistemas/UML.md",
-    "Anexos/Pasted image 20240305224434.png",
     "Análise de sistemas/ENGENHARIA DE REQUISITOS.md",
-    "Anexos/Pasted image 20240301220312.png",
-    "Anexos/Pasted image 20240301220049.png",
-    "Anexos/Pasted image 20240301220034.png",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
-    "Anexos/Pasted image 20240229225749.png",
     "Análise de sistemas/Diagrama de fluxo de dados(dfd).md",
-    "Anexos/Pasted image 20240227223305.png",
     "Análise de sistemas/ANALISE ESTRUTURADA.md",
     "Análise de sistemas/Processos.md",
     "fundamentos da programação WEB/CONCEITOS HTML.md",
     "Análise de sistemas/BPMN.md",
     "Sem título",
-    "Anexos/diagramaBPMN_Aula_prática1.svg",
     "SISTEMAS DE INFORMAÇÃO/blockchain.md",
     "fundamentos da programação WEB",
-    "Anexos/Pasted image 20240219215534.png",
-    "Anexos/Pasted image 20240219215348.png",
-    "Anexos/Pasted image 20240219215042.png",
     "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
     "Análise de sistemas",
     "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
@@ -229,7 +230,6 @@
     "Desenvolvimento mobile/Android Studio/Iniciar um projeto.md",
     "Desenvolvimento mobile/CONCEITOS.md",
     "Desenvolvimento mobile/Grossário.md",
-    "Desenvolvimento mobile/Microsoft Power Apps.md",
     "Desenvolvimento mobile/Android Studio",
     "Sem título 1.canvas",
     "Sem título.canvas",
