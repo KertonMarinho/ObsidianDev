@@ -28,3 +28,14 @@
 ## <span style="color: #1E90FF">Dependência</span>
 - representa adependência entre classses qundo estas sofrem mudançs de estado. Com esse relacionamento, é possível entender o impacto e como uma classe é afetada quando a outra claase é modificada
 ![[Pasted image 20240314225627.png]]
+---
+# TECNICA DE MODELAGEM DE DIAGRAMA DE CLASSES
+###  Alguns passos para seguir:
+1. Levantar requisitos
+2. Modelar o diagrma de caso de uso
+3. Identificar as classes
+4. Identificar os atributos e métodos\
+5. Modelar o diagrama de classes
+
+## <span style="color:orange">Exemplo</span>
+![[Pasted image 20240317213242.png]]

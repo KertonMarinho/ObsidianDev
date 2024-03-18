@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de sistemas/BPMN.md",
+                "file": "Análise de sistemas/1 BPMN.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md",
+                "file": "Análise de sistemas/7 Outros Diagramas.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md",
+                "file": "Análise de sistemas/7 Outros Diagramas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md",
+                "file": "Análise de sistemas/7 Outros Diagramas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de sistemas/DIAGRAMA DE CLASSES.md"
+                "file": "Análise de sistemas/7 Outros Diagramas.md"
               }
             }
           }
@@ -189,30 +189,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8ee00d605126b41e",
+  "active": "ae41272a405aba69",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240314225627.png",
+    "Anexos/Pasted image 20240317222635.png",
     "Cores Markedown.md",
-    "Análise de sistemas/DIAGRAMA DE CLASSES.md",
-    "Anexos/Pasted image 20240314225246.png",
-    "Anexos/Pasted image 20240314224815.png",
-    "Anexos/Pasted image 20240314224606.png",
-    "Anexos/Pasted image 20240314224138.png",
-    "Anexos/Pasted image 20240314224118.png",
-    "Anexos/Pasted image 20240314224014.png",
-    "Anexos/Pasted image 20240314223625.png",
-    "Anexos/Pasted image 20240314223543.png",
-    "Anexos/Pasted image 20240314223244.png",
-    "Anexos/Pasted image 20240314223155.png",
-    "Análise de sistemas/UML.md",
-    "Análise de sistemas/ENGENHARIA DE REQUISITOS.md",
+    "Análise de sistemas/7 Outros Diagramas.md",
+    "Anexos/Pasted image 20240317222521.png",
+    "Anexos/Pasted image 20240317222459.png",
+    "Anexos/Pasted image 20240317221529.png",
+    "Anexos/Pasted image 20240317221418.png",
+    "Anexos/Pasted image 20240317221402.png",
+    "Anexos/Pasted image 20240317221345.png",
+    "Anexos/Pasted image 20240317221319.png",
+    "Anexos/Pasted image 20240317220353.png",
+    "Anexos/Pasted image 20240317220310.png",
+    "Anexos/Pasted image 20240219215534.png",
+    "Análise de sistemas/6 DIAGRAMA DE CLASSES.md",
+    "Análise de sistemas/5 UML.md",
+    "Análise de sistemas/3 ENGENHARIA DE REQUISITOS.md",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
-    "Análise de sistemas/Diagrama de fluxo de dados(dfd).md",
-    "Análise de sistemas/ANALISE ESTRUTURADA.md",
-    "Análise de sistemas/Processos.md",
+    "Análise de sistemas/2 Diagrama de fluxo de dados(dfd).md",
+    "Análise de sistemas/4 ANALISE ESTRUTURADA.md",
+    "Análise de sistemas/0 Processos.md",
     "fundamentos da programação WEB/CONCEITOS HTML.md",
-    "Análise de sistemas/BPMN.md",
+    "Análise de sistemas/1 BPMN.md",
     "Sem título",
     "SISTEMAS DE INFORMAÇÃO/blockchain.md",
     "fundamentos da programação WEB",
@@ -229,7 +230,6 @@
     "Desenvolvimento mobile/Android Studio/Projeto no Android Studio.md",
     "Desenvolvimento mobile/Android Studio/Iniciar um projeto.md",
     "Desenvolvimento mobile/CONCEITOS.md",
-    "Desenvolvimento mobile/Grossário.md",
     "Desenvolvimento mobile/Android Studio",
     "Sem título 1.canvas",
     "Sem título.canvas",
