@@ -34,4 +34,31 @@
 	- A proximidade
 	- A semelhança
 
-parou no -4:22
+#  <span style="color:#32CD32">Fechamento</span> 
+- A mente completa (flecha) contorno para completar figuras regulares
+ ![[Pasted image 20240417215154.png|300]]
+
+#  <span style="color:#32CD32">Continuidade</span> 
+![[Pasted image 20240417215258.png]]
+#  <span style="color:#32CD32">Proximidade</span> ![[Pasted image 20240417215343.png]]
+
+#  <span style="color:#32CD32">Similaridade</span> 
+![[Pasted image 20240417215448.png]]
+
+---
+# MODELOS MENTAIS
+- Segundo Craik, 1943, a mente constrói "modelos da realidade em pequena escala" e usa esses modelos para antecipar eventos, racionar e fundamentar a explicação.
+![[Pasted image 20240417215802.png]]
+---
+# Tipos de Interação
+
+#  <span style="color:#00BFFF">LimeGreen</span> 
+![[Pasted image 20240417220424.png]]
+
+#  <span style="color:#40E0D0">Conversação</span> 
+![[Pasted image 20240417220659.png]]
+
+# <span style="color:#00FF00">Manipulação</span>
+![[Pasted image 20240417220801.png]]
+# <span style="color:#BDB76B">Exploração</span>
+![[Pasted image 20240417220926.png]]

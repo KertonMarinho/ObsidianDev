@@ -13,8 +13,12 @@
 <span style="color:yellow">yellow</span>
 ```
 
-<span style="color:khaki">khaki</span>
+<span style="color:#BDB76B">DarkKhaki</span>
+```
+<span style="color:#BDB76B">DarkKhaki</span>
+```
 
+<span style="color:khaki">khaki</span>
 ```
 <span style="color:khaki">khaki</span>
 ```
