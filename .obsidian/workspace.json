@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design de interação/Psicologia Cognitiva.md",
+                "file": "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,26 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/Fundamentos e modelos de processos prescritivos.md",
+                "file": "Comandos Markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
-        "id": "b84092e113915f9d",
+        "id": "74cb938c648a2527",
         "type": "tabs",
         "children": [
           {
-            "id": "e193f5ed98b90d43",
+            "id": "ad269a4c2d5a1c8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design de interação/Conceito Inicial.md",
+                "file": "Cores Markedown.md",
                 "mode": "preview",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design de interação/Psicologia Cognitiva.md",
+                "file": "Comandos Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design de interação/Psicologia Cognitiva.md",
+                "file": "Comandos Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design de interação/Psicologia Cognitiva.md"
+                "file": "Comandos Markdown.md"
               }
             }
           }
@@ -225,14 +225,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8ee00d605126b41e",
+  "active": "ba7b5c92031a7214",
   "lastOpenFiles": [
-    "Design de interação/Conceito Inicial.md",
-    "ENGENHARIA DE SOFTWARE/Fundamentos e modelos de processos prescritivos.md",
-    "fundamentos da programação WEB/CONCEITOS HTML.md",
     "Comandos do terminal do windows.md",
+    "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
+    "Anexos/Pasted image 20240418222309.png",
     "Cores Markedown.md",
+    "Comandos Markdown.md",
+    "Anexos/Pasted image 20240418220836.png",
+    "Anexos/Pasted image 20240418215644.png",
+    "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "Design de interação/Psicologia Cognitiva.md",
+    "Design de interação/Conceito Inicial.md",
+    "fundamentos da programação WEB/CONCEITOS HTML.md",
     "Anexos/Pasted image 20240417220926.png",
     "Anexos/Pasted image 20240417220801.png",
     "Anexos/Pasted image 20240417220659.png",
@@ -240,9 +245,6 @@
     "Anexos/Pasted image 20240417215802.png",
     "Anexos/Pasted image 20240417215448.png",
     "Anexos/Pasted image 20240417215343.png",
-    "Anexos/Pasted image 20240417215258.png",
-    "Anexos/Pasted image 20240417215226.png",
-    "Anexos/Pasted image 20240417215154.png",
     "Análise de sistemas/3 ENGENHARIA DE REQUISITOS.md",
     "ENGENHARIA DE SOFTWARE",
     "Design de interação",
@@ -250,7 +252,6 @@
     "Análise de sistemas/7 Outros Diagramas.md",
     "Análise de sistemas/6 DIAGRAMA DE CLASSES.md",
     "Análise de sistemas/5 UML.md",
-    "Comandos Markdown.md",
     "Análise de sistemas/2 Diagrama de fluxo de dados(dfd).md",
     "Análise de sistemas/4 ANALISE ESTRUTURADA.md",
     "Análise de sistemas/0 Processos.md",
@@ -266,7 +267,6 @@
     "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
     "SISTEMAS DE INFORMAÇÃO/Big data.md",
     "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
-    "SISTEMAS DE INFORMAÇÃO/Tipos de software.md",
     "Desenvolvimento mobile/Android Studio",
     "Sem título 1.canvas",
     "Sem título.canvas",

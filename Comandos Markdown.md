@@ -97,5 +97,43 @@ nota de rodapem [^1]
 [^1]: descrever a nota. Lembre-se de que as notas de roda'pe só serão visiveis[1^1] no modo de visualização
 
 
+---
+## Links
+
+[](https://github.com/mende1/guia-definitivo-de-markdown?tab=readme-ov-file#links)
+
+É possível colocar algum link em seu _'Readme'_, e ainda colocá-lo por debaixo de uma palavra, é o chamado link-âncora, acessando-o ao clicar na palavra. Entre colchetes [ ] a palava que deseja por debaixo dos panos. E entre parentêses ( ) o link para acesso. Vejamos o exemplo do código:
+
+```
+Clique [aqui](https://github.com) para acessar à página do GitHub.
+```
+
+Resultado: Clique [aqui](https://github.com/) para acessar à página do GitHub.
+
+Lembre-se que pode criar links para outros repositórios seus no GitHub, também é possível acessar outro arquivo no mesmo repositório, e até mesmo a posição da página do leitor no mesmo arquivo. Por exemplo, clique [aqui](https://github.com/gustavo-mendel/guia-definitivo-de-markdown/blob/master/README.md#a-sintaxe-do-markdown) para acessar o título 'Sintaxe' neste mesmo arquivo. Tais possibilidades deixam seu _README_ bem mais apresentável, e com uma interatividade maior, demonstrando que o escritor do código entende bem de _MarkDown_.
+
+Para links sem uma palavra por cima do link, use '< >' para envolver o link desejado, assim o link aparecerá por inteiro ao leitor. Exemplo: [https://google.com.br](https://google.com.br/)
+
+---
+## Links em imagens
+
+[](https://github.com/mende1/guia-definitivo-de-markdown?tab=readme-ov-file#links-em-imagens)
+
+Você pode fazer com que uma imagem carregue um link por debaixo dos panos, e ao clicar nela, acesse o link. É uma mescla tanto semânticamente quanto na sintaxe. Vejamos:
+
+```
+Clique na imagem para acessar o Google.
+[![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
+```
+
+Clique na imagem para acessar o Google.
+Clique na imagem para acessar o Google.
+[![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
+
+---
+
+
+
+
 
 
