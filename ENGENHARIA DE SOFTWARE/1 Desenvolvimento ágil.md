@@ -107,3 +107,106 @@
 
 ---
 # MÉTODO CRYSTAL CLEAR
+- Criado em 1997
+- Adequado para equipes pequenas(máximo 8)
+- Equipes compostas por um designer líder e entre dois e sete programadores
+- Uso de "radiadores'' de informação
+- Fácil acesso a especialistas de domínio
+- Eliminação de distrações
+- Cronograma de desenvolvimento e ajuste do método quando necessário
+## <span style="color:#BDB76B">Ciclo de vida do método crystal clear</span>
+#### - Organização em três níveis:
+1. interação
+	- Composto por estimação, desenvolvimento e celebração. Costuma durar poucas semanas
+2. Entrega
+	- Formado por várias iterações. Ciclos máximos de dois meses
+3. Projeto
+	- Formado pelo conjunto de todas as entregas
+## <span style="color:#BDB76B">Sete pilares do método crystal clear</span>
+1. Entregas frequentes
+2. Melhorias reflexiva
+3. Comunicação osmótica
+4. Segurança pessoal
+5. Foco
+6. Acesso fácil a especialistas
+7. Ambiente tecnologicamente rico
+---
+# DESENVOLVIMENTO DE SOFTWARE ADAPTATIVO-ASD
+- Tem como base sistemas adaptativos complexos
+- Enxerga o processo de desenvolvimento de software com
+	- <span style="color:brown">Agentes</span> 
+		 - Clientes, desenvolvedores e usuários
+	 - <span style="color:brown">Ambientes</span>
+		 - Organização, tecnológico e de processos
+## <span style="color:#BDB76B">Fases do método ASD</span>
+- Fundamenta-se em desenvolvimento cíclico iterativo baseado em três grandes fases
+	- Espetacular
+	- Colaborar
+	- Aprender
+
+##  <span style="color:#32CD32">Fase de especulação</span> 
+- O projeto é iniciado
+- O planejamento é conduzido em ciclos adaptáveis, com foco em:
+	- Determinar o tempo de duração do projeto
+	- Quantidade de ciclos e duração de cada um
+	- Objetivo de cada ciclo
+	- Componentes a serem desenvolvidos, tecnologias necessárias e listas de tarefas
+
+##  <span style="color:#32CD32">Fase de coloboração</span> 
+- A equipe tem como foco:
+	- Realizar as atividades que podem ser mais previsíveis
+	- Realizar as atividades que são naturalmente mais incertas
+- A partir dessa colaboração, várias componentes serão desenvolvido de forma concorrente
+
+##  <span style="color:#32CD32">Fase de aprendizado</span> 
+- Revisão de qualidade
+- Exige repetidas revisões de qualidade
+- Repetidos testes de aceitação
+- Necessária a presença do cliente e de especialistas do domínio
+![[Pasted image 20240422220844.png|500]]
+----
+# Scrum
+- Tem como foco a gestão de projetos de software
+- Tem como um dos conceitos mais importantes o sprint
+- Pode ser integrado a outros métodos ágeis com facilidade
+- Por isso, pode ser dizer que é um dos métodos ágeis mais utilizados
+
+## <span style="color: #1E90FF">Fases do Scrum</span>
+- <span style="color:#40E0D0">primeira fase:</span> 
+	- Planejamento geral. Estabelecem-se os objetivos gerais do projeto e da arquitetura
+- <span style="color:#40E0D0">Segunda fase</span> 
+	- Execução dos ciclos de sprint. Cada ciclo desenvolve um incremento do sistema
+- <span style="color:#40E0D0">Terceira fase</span> 
+	- Encerra-se o projeto. Completa-se a documentação. Avaliam-se as lições aprendidas com o projeto
+
+## <span style="color:#FF4500">Papéis do scrum</span>
+- <span style="color: #00FF00">Scrum master</span> 
+	- Facilitador e solucionador de conflitos.
+	- Responsável por manter o time Scrum em um ambiente propício para concluir o projeto
+- <span style="color: #00FF00">Product owner</span> 
+	- Representa a voz do cliente. Responsável pelo projeto em si. Indica quais são os requisitos mais importantes a serem tratados em cada sprint
+- <span style="color: #00FF00">Scrum team</span> 
+	- Trata-se da equipe de desenvolvimento. Todos interagem para desenvolver o produto em conjunto
+
+## <span style="color:#8A2BE2">Product backlog</span>
+- listas de todas as tarefas implantadas no projeto
+- Refere-se às funcionalidades a serem implantadas em cada projeto
+![[Pasted image 20240422222531.png]]
+
+## <span style="color:yellow">Sprint</span>
+- Ciclo de desenvolvimento que, em geral, vai de duas semanas a um mês
+- Os elementos do product backlog a serem implementados são priorizados e transferidos para o sprint backlog
+- Mantém-se o sprint backlog já concluídos e aquelas ainda por concluir
+
+## Tipos de reuniões
+- Diárias
+	- realizadas a cada 24 horas, em pé
+	- Atualizar o time sobre o andamento do sprint
+- Revisão
+	- Realizadas ao final de cada sprint
+	- Avalia o produto do trabalho
+- Retrospectiva
+	- Tem como objetivo avaliar os sprints concluídos
+	- Avalia o que deu certo e errado, o que pode ser evitado e feito para reduzir erros, e identificar melhorias
+![[Pasted image 20240422223538.png|600]]
+
