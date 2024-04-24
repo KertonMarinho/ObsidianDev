@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
+                "file": "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
+                "file": "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
+                "file": "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md"
+                "file": "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md"
               }
             }
           }
@@ -227,25 +227,26 @@
   },
   "active": "ba7b5c92031a7214",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240422223538.png",
+    "Anexos/Pasted image 20240423221758.png",
+    "Anexos/Pasted image 20240423221704.png",
     "Cores Markedown.md",
+    "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
+    "Anexos/Pasted image 20240423221423.png",
+    "Anexos/Pasted image 20240423220902.png",
+    "Anexos/Pasted image 20240423220752.png",
+    "Anexos/Pasted image 20240423220201.png",
+    "Anexos/Pasted image 20240423220059.png",
+    "Anexos/Pasted image 20240423220035.png",
+    "Anexos/Pasted image 20240423220016.png",
+    "Anexos/Pasted image 20240423215809.png",
+    "Anexos/Pasted image 20240423215716.png",
     "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
-    "Anexos/Pasted image 20240422222531.png",
-    "Anexos/Pasted image 20240422220844.png",
     "Design de interação/Psicologia Cognitiva.md",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
-    "Anexos/Pasted image 20240418222309.png",
-    "Anexos/Pasted image 20240418220836.png",
-    "Anexos/Pasted image 20240418215644.png",
     "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "Design de interação/Conceito Inicial.md",
     "fundamentos da programação WEB/CONCEITOS HTML.md",
-    "Anexos/Pasted image 20240417220926.png",
-    "Anexos/Pasted image 20240417220801.png",
-    "Anexos/Pasted image 20240417220659.png",
-    "Anexos/Pasted image 20240417220424.png",
-    "Anexos/Pasted image 20240417215802.png",
     "Análise de sistemas/3 ENGENHARIA DE REQUISITOS.md",
     "ENGENHARIA DE SOFTWARE",
     "Design de interação",
@@ -267,7 +268,6 @@
     "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
     "SISTEMAS DE INFORMAÇÃO/Dados Estruturados, semiestruturados, não estruturados.md",
     "SISTEMAS DE INFORMAÇÃO/Big data.md",
-    "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
     "Desenvolvimento mobile/Android Studio",
     "Sem título 1.canvas",
     "Sem título.canvas",
