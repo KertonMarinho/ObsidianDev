@@ -73,9 +73,21 @@
 <span style="color: #00FF00">lime</span> 
 ```
 
+## <span style="color:#00FA9A">MediumSpringGreen</span>
+
+```
+<span style="color:#00FA9A">MediumSpringGreen</span>
+```
+
 ## <span style="color: #1E90FF">DodgerBlue</span>
 ```
 <span style="color: #1E90FF">DodgerBlue</span>
+```
+
+## <span style="color:#00BFFF">DeepSkyBlue</span>
+
+```
+<span style="color:#00BFFF">DeepSkyBlue</span>
 ```
 
 ## <span style="color:#40E0D0">MediumTurquoise</span>

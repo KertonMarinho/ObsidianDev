@@ -71,3 +71,45 @@ Essa arquitetura tem como foco separar a apresentação e a interação dos dado
 - **Controlador**: gerencia a interação do usuário e passa essa interação para a Visão e o Modelo.
 
 ---
+# REQUISITOS DE SOFTWARE
+- São as descrições do que o sistema deve fazer, os serviços que oferecem e as restrições a seu funcionamento.
+- São classificados de Funcionais e não funcionais
+
+## <span style="color:brown">Funcionais</span>
+- Declaração dos serviços que o sistema deve fornecer
+- Como o sistema deve agir com relação a determinadas entradas
+- Como o sistema deve se comportar em determinadas situações
+- O que o sistema não deve fazer
+## <span style="color: #1E90FF">Não funcionais</span>
+- Restrições sobre os serviços ou funções oferecidas pelo sistema
+	- Restrição de tempo
+	- Restrição sobre o processo de desenvolvimento
+	- Restrições impostas por padrão
+- Aplicam-se ao sistema como um todo, em vez de às características individuais ou aos serviços
+
+## TÉCNICAS PARA ELICITAÇÃO DE REQUISITOS
+###  <span style="color:#32CD32">Entrevistas</span> 
+- Formais ou informais, com usuários e demais partes envolvidas no sistema
+### <span style="color:#FF4500">Cenários</span>
+- Podem ser escritos com texto, suplementados por diagramas, telas, entre outros
+## <span style="color:#8A2BE2">Casos de usos</span>
+- Abordagem mais estruturadas de cenários.
+- Identificar os atores envolvidos em uma iteração e dá nome ao tipo de iteração
+## <span style="color:aquamarine">Etnogrtafia</span>
+- Técnica de observação que pode ser usada para compreender os processos operacionais e ajuda a extrair os requisitos de apoio para esses processos
+---
+# GERENCIAMENTO DE CONFIGURAÇÃO E MUDANÇA
+- É um conjunto de atividades destinadas a gerenciar as alterações identificadas os artefatos que precisam ser alteradas, estabelecendo relações entre eles, definindo mecanismos para gerenciar diferentes versões  desses artefatos, controlando as alterações impostas e auditando e relatando alterações feitas.
+## Para Sommerville(2018), o gerenciamento de configuração envolve quatro atividades
+## <span style="color:#00BFFF">1. Controle de versão</span>
+- Controlar as várias versões dos componentes do sistema
+- Garantir que as mudanças feitas não interferem nas outras
+## <span style="color:#00FA9A">Construção do sistema</span>
+-  Reunir componentes, dados e bibliotecas do programa, compilando-os e ligando-os para criar um sistema executável
+## <span style="color:#8B4513">Gerenciamento de mudanças</span>
+-  Manter o controle das solicitações de mudança de cliente e desenvolvimento no software já entregue
+- Elaborar os custos e o impacto dessas mudanças, bem como decidir se e quando as alteraçoes devem ser implementadas
+
+## <span style="color:#BDB76B">Gerenciamento de lançamento</span>
+- Preparar o software para o lançamento externo e acompanhar as versões lançadas para o uso do cliente
+---
