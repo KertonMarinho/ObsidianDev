@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
+                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
+                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
+                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md"
+                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md"
               }
             }
           }
@@ -239,30 +239,31 @@
   },
   "active": "8ee00d605126b41e",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240429223513.png",
-    "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
     "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
-    "Anexos/Pasted image 20240429222646.png",
-    "Cores Markedown.md",
-    "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
+    "Comandos Markdown.md",
+    "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
+    "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
     "teclas simbolos.md",
-    "Anexos/Pasted image 20240429215922.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240430224237.png",
+    "Anexos/Pasted image 20240430224051.png",
+    "Anexos/Pasted image 20240430224009.png",
+    "Anexos/Pasted image 20240430223813.png",
+    "Anexos/Pasted image 20240430223625.png",
+    "Anexos/Pasted image 20240430222528.png",
+    "Anexos/Pasted image 20240430220553.png",
+    "Anexos/Pasted image 20240430220502.png",
+    "Anexos/Pasted image 20240430220243.png",
+    "Anexos/Pasted image 20240430215958.png",
+    "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
+    "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
     "Design de interação/2 LAYOUTS.md",
-    "Anexos/Pasted image 20240428215341.png",
-    "Anexos/Pasted image 20240428213551.png",
-    "Anexos/Pasted image 20240428213429.png",
-    "Anexos/Pasted image 20240428213303.png",
-    "Anexos/Pasted image 20240428213234.png",
-    "Anexos/Pasted image 20240428213121.png",
-    "Anexos/Pasted image 20240428213103.png",
-    "Anexos/Pasted image 20240428213023.png",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "2024-04-25.md",
     "Comandos do terminal do windows.md",
     "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
     "Design de interação/1 Psicologia Cognitiva.md",
-    "Comandos Markdown.md",
     "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "Design de interação/0 Conceito Inicial.md",
     "fundamentos da programação WEB/CONCEITOS HTML.md",
@@ -281,7 +282,6 @@
     "fundamentos da programação WEB",
     "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
     "Análise de sistemas",
-    "SISTEMAS DE INFORMAÇÃO/Sistemas de pagamentos.md",
     "Desenvolvimento mobile/Android Studio",
     "Desenvolvimento mobile",
     "SISTEMAS DE INFORMAÇÃO",
