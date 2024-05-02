@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
+                "file": "ENGENHARIA DE SOFTWARE/8 COCOMO.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
+                "file": "ENGENHARIA DE SOFTWARE/8 COCOMO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
+                "file": "ENGENHARIA DE SOFTWARE/8 COCOMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md"
+                "file": "ENGENHARIA DE SOFTWARE/8 COCOMO.md"
               }
             }
           }
@@ -239,22 +239,25 @@
   },
   "active": "8ee00d605126b41e",
   "lastOpenFiles": [
-    "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
-    "Comandos Markdown.md",
+    "Anexos/Pasted image 20240501225828.png",
+    "Anexos/Pasted image 20240501225730.png",
+    "Anexos/Pasted image 20240501225545.png",
+    "Anexos/Pasted image 20240501225441.png",
+    "Anexos/Pasted image 20240501225410.png",
+    "teclas simbolos.md",
+    "ENGENHARIA DE SOFTWARE/8 COCOMO.md",
+    "Anexos/Pasted image 20240501225305.png",
+    "Cores Markedown.md",
+    "ENGENHARIA DE SOFTWARE/7 SLOC E KSLOC.md",
+    "Anexos/Pasted image 20240501223435.png",
     "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
     "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
-    "teclas simbolos.md",
-    "Cores Markedown.md",
+    "Anexos/Pasted image 20240501221617.png",
+    "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
+    "Comandos Markdown.md",
     "Anexos/Pasted image 20240430224237.png",
     "Anexos/Pasted image 20240430224051.png",
     "Anexos/Pasted image 20240430224009.png",
-    "Anexos/Pasted image 20240430223813.png",
-    "Anexos/Pasted image 20240430223625.png",
-    "Anexos/Pasted image 20240430222528.png",
-    "Anexos/Pasted image 20240430220553.png",
-    "Anexos/Pasted image 20240430220502.png",
-    "Anexos/Pasted image 20240430220243.png",
-    "Anexos/Pasted image 20240430215958.png",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
     "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
     "Design de interação/2 LAYOUTS.md",
@@ -276,11 +279,8 @@
     "Análise de sistemas/5 UML.md",
     "Análise de sistemas/2 Diagrama de fluxo de dados(dfd).md",
     "Análise de sistemas/4 ANALISE ESTRUTURADA.md",
-    "Análise de sistemas/0 Processos.md",
-    "Análise de sistemas/1 BPMN.md",
     "Sem título",
     "fundamentos da programação WEB",
-    "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
     "Análise de sistemas",
     "Desenvolvimento mobile/Android Studio",
     "Desenvolvimento mobile",
