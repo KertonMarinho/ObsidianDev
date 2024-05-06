@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design de interação/3 ERGONOMIA DOS ELEMETOS.md",
-                "mode": "preview",
+                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design de interação/3 ERGONOMIA DOS ELEMETOS.md",
+                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design de interação/3 ERGONOMIA DOS ELEMETOS.md",
+                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design de interação/3 ERGONOMIA DOS ELEMETOS.md"
+                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md"
               }
             }
           }
@@ -239,25 +239,26 @@
   },
   "active": "8ee00d605126b41e",
   "lastOpenFiles": [
-    "Design de interação/1 Psicologia Cognitiva.md",
-    "Design de interação/2 LAYOUTS.md",
-    "Cores Markedown.md",
-    "Design de interação/3 ERGONOMIA DOS ELEMETOS.md",
-    "Anexos/Pasted image 20240502224215.png",
-    "Anexos/Pasted image 20240502224127.png",
-    "Anexos/Pasted image 20240502223937.png",
-    "Anexos/Pasted image 20240502223824.png",
     "teclas simbolos.md",
-    "Anexos/Pasted image 20240502223450.png",
-    "Anexos/Pasted image 20240502223122.png",
-    "Anexos/Pasted image 20240502223025.png",
-    "Anexos/Pasted image 20240502222041.png",
-    "Anexos/Pasted image 20240502221931.png",
-    "Anexos/Pasted image 20240502221653.png",
+    "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
+    "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
     "ENGENHARIA DE SOFTWARE/8 COCOMO.md",
     "ENGENHARIA DE SOFTWARE/7 SLOC E KSLOC.md",
-    "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
     "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
+    "Design de interação/3 ERGONOMIA DOS ELEMETOS.md",
+    "Anexos/Pasted image 20240505222221.png",
+    "Anexos/Pasted image 20240505222122.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240505221842.png",
+    "Anexos/Pasted image 20240505221627.png",
+    "Anexos/Pasted image 20240505221538.png",
+    "Anexos/Pasted image 20240505221423.png",
+    "Anexos/Pasted image 20240505221314.png",
+    "Anexos/Pasted image 20240505221214.png",
+    "Anexos/Pasted image 20240505221028.png",
+    "Anexos/Pasted image 20240505220212.png",
+    "Design de interação/1 Psicologia Cognitiva.md",
+    "Design de interação/2 LAYOUTS.md",
     "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
     "Comandos Markdown.md",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
