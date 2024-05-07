@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
+                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
+                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
+                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md"
+                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md"
               }
             }
           }
@@ -240,7 +240,18 @@
   "active": "8ee00d605126b41e",
   "lastOpenFiles": [
     "teclas simbolos.md",
-    "ENGENHARIA DE SOFTWARE/TESTES DE SOFTWARE.md",
+    "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240506223811.png",
+    "Anexos/Pasted image 20240506223440.png",
+    "Anexos/Pasted image 20240506222930.png",
+    "Comandos Markdown.md",
+    "Comandos do terminal do windows.md",
+    "Anexos/Pasted image 20240506220117.png",
+    "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
+    "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
+    "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
+    "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
     "ENGENHARIA DE SOFTWARE/8 COCOMO.md",
     "ENGENHARIA DE SOFTWARE/7 SLOC E KSLOC.md",
@@ -248,27 +259,16 @@
     "Design de interação/3 ERGONOMIA DOS ELEMETOS.md",
     "Anexos/Pasted image 20240505222221.png",
     "Anexos/Pasted image 20240505222122.png",
-    "Cores Markedown.md",
     "Anexos/Pasted image 20240505221842.png",
     "Anexos/Pasted image 20240505221627.png",
     "Anexos/Pasted image 20240505221538.png",
     "Anexos/Pasted image 20240505221423.png",
-    "Anexos/Pasted image 20240505221314.png",
-    "Anexos/Pasted image 20240505221214.png",
-    "Anexos/Pasted image 20240505221028.png",
-    "Anexos/Pasted image 20240505220212.png",
     "Design de interação/1 Psicologia Cognitiva.md",
     "Design de interação/2 LAYOUTS.md",
-    "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
-    "Comandos Markdown.md",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
-    "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "2024-04-25.md",
-    "Comandos do terminal do windows.md",
-    "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
-    "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "Design de interação/0 Conceito Inicial.md",
     "fundamentos da programação WEB/CONCEITOS HTML.md",
     "Análise de sistemas/3 ENGENHARIA DE REQUISITOS.md",
@@ -278,7 +278,6 @@
     "Análise de sistemas/7 Outros Diagramas.md",
     "Análise de sistemas/6 DIAGRAMA DE CLASSES.md",
     "Análise de sistemas/5 UML.md",
-    "Análise de sistemas/2 Diagrama de fluxo de dados(dfd).md",
     "Sem título",
     "fundamentos da programação WEB",
     "Análise de sistemas",
