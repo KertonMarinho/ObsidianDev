@@ -103,6 +103,8 @@ Verificação</span>
 - É executados sobre as entradas e saídas do programa sem que se tenha conhecimento do seu código-fonte, sendo, portanto, identificando como teste de caixa preta
 - Destacam-se como principal critérios do teste funcional o particionamento em classes de equivalência, a análise do valor limite e o error guessing
 ## <span style="color:orange">■ Particioanemento em classes de equivalência</span>
+- Considerando que o teste exaustivo é, em geral, impossível de se aplicar, torna-se necessária a identificação de subconjuntos de casos de teste (Delamaro; Maldonado; Jino, 2007). Com isso, parafraseando Wazlawick (2013), se um programa aceita um conjunto de dados e rejeita outro conjunto, pode-se dizer que existem duas classes de equivalência para os dados de entrada do programa
+	 A  técnica de particionamento de equivalência considera a divisão das entradas de um programa da seguinte forma:
 - Entrada especificada como um intervalo de valores
 	- Um conjunto válido e dois inválidos
 - Entrada especificada com uma quantidade de valores
@@ -113,6 +115,7 @@ Verificação</span>
 - Entrada especificada com uma condição
 	- Um conjunto válido e um invalido
 ## <span style="color:#FF4500">■ Análise de valor limite</span>
+ Ao contrário do particionamento em classes de equivalência, a análise de valor-limite, conforme colocado por Wazlawick (2013), consiste em considerar não apenas um valor qualquer para teste dentro de uma classe de equivalência, mas um ou mais valores fronteiriços com outras classes de equivalência quando isso puder ser determinado.
 - Entrada especificada com um intervalo de valores
 	- Testa-se os limites desse intervalo e os imediatamente subsequentes
 - Entrada especificada com um quantidade de valores
@@ -125,4 +128,37 @@ Verificação</span>
 - "Essa técnica corresponde a uma abordagem ad-hoc na qual a pessoa pratica, inconscientemente, uma técnica para o projeto de casos de testes, supondo por intuição e experiência alguns tipos prováveis de erro e, a partir disso, definem-se casos de teste que poderiam detectá-lo"
 ---
 ----
-# ☄TESTE BASEADO EM DEFEITOD
+# ☄TESTE BASEADO EM DEFEITO
+## <span style="color: #1E90FF">■ Teste de mutação</span>
+
+- Esta etapa consiste em executar todos os programas mutantes gerados pelos operadores de mutação com o mesmo conjunto **T** aplicado no programa original. Para cada dado de teste aplicado em um mutante, o resultado obtido da execução do programa mutante é comparado com o resultado obtido na execução do programa original.
+- Toda vez que o resultado do mutante difere do programa original com algum caso de teste de **T**, esse mutante é considerado morto e descartado. Para um mutante que apresenta o mesmo resultado do programa original, sem que seja possível gerar novos dados de teste que identifiquem a alteração gerada pelo operador de mutação, um defeito pode ter sido revelado ou esse mutante pode ser considerado equivalente ao programa original.
+
+### <span style="color:#00FA9A">Sequência</span>
+- Geração dos mutantes
+- Execução do programa em teste
+- Execução dos mutantes vivos
+
+
+![[Pasted image 20240507214956.png]]
+![[Pasted image 20240507215017.png]]
+- De acordo com a Tabela 5, somente um mutante apresentou resultado igual ao programa original, sem ser possível a geração de um dado de teste que diferencie o resultado da execução desse mutante com o resultado da execução do programa original. Portanto, neste exemplo, de um total de 6 mutantes gerados, obtivemos 5 mutantes que apresentaram resultado diferente com algum caso de teste, sendo, portanto, considerados mortos e descartados e somente um igual ao original que é considerado vivo para análise posterior.
+
+- Com o objetivo de averiguar a adequação dos casos de teste utilizados, é aplicado o escore de mutação. O escore de mutação varia entre 0 e 1 e fornece uma medida objetiva de quanto o conjunto de casos de teste analisado aproxima-se da adequação. Assim, dado um programa **P** e o conjunto de casos de teste **T**, calcula-se o escore de mutação _ms(P, T)_ da seguinte maneira:
+
+$$ ms(P,T) = \frac{dm(P<T)}{M(P)-em(P)}
+$$
+- <span style="color:red">DM(P,T):</span> Número de mutantes mortos pelo conjunto de casos de teste
+- <span style="color:red">M(P):</span> Número total de mutantes gerados com base no programa P
+- <span style="color:red">EM(P):</span> Número de mutantes gerados que são equivalentes
+### <span style="color:#00FA9A">Análise dos mutantes vivos</span>
+- Esta etapa aplica-se para identificar, entre todos os mutantes que permaneceram vivos, quais representam um defeito no programa original ou quais são equivalentes
+---
+---
+# 🛰AULA PRÁTICA TESTE DE MUTAÇÃO
+1. Abaixa JDK Java no site www.ninite.com
+2. Abaixe em runtimes, Java (adopOpenJDK) x64 8
+3. O correto é usar o linux, o windows apresenta falhas no programa
+4. Pesquise no google ``mujava`` e abaixe no primeiro site <https://cs.gmu.edu/~offutt/mujava/>
+5. O foco dela e acadêmico
+6. Assista o vídeo em Engenharia de software/A5/video: AP% teste mutaçao mujava
