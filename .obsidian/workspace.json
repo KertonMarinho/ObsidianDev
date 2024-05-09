@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
+                "file": "Design de interação/5 PROTOTIPAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
+                "file": "Design de interação/5 PROTOTIPAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
+                "file": "Design de interação/5 PROTOTIPAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md"
+                "file": "Design de interação/5 PROTOTIPAÇÃO.md"
               }
             }
           }
@@ -239,33 +239,35 @@
   },
   "active": "8ee00d605126b41e",
   "lastOpenFiles": [
-    "teclas simbolos.md",
-    "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
-    "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
-    "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
-    "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
-    "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
+    "Anexos/Pasted image 20240508221540.png",
+    "Anexos/Pasted image 20240508220630.png",
+    "Anexos/Pasted image 20240508220516.png",
+    "Anexos/Pasted image 20240508220239.png",
+    "Anexos/Pasted image 20240508215716.png",
+    "Anexos/Pasted image 20240508215627.png",
     "Cores Markedown.md",
+    "teclas simbolos.md",
+    "Design de interação/5 PROTOTIPAÇÃO.md",
+    "Anexos/Pasted image 20240508214549.png",
+    "Anexos/Pasted image 20240508214343.png",
+    "Anexos/Pasted image 20240508213727.png",
+    "Anexos/Pasted image 20240508213705.png",
+    "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
+    "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
+    "Design de interação/2 Compreender o Usuário e Desenvolver Ideias.md",
+    "ENGENHARIA DE SOFTWARE/9 TESTES DE SOFTWARE.md",
+    "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
+    "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
     "Comandos do terminal do windows.md",
     "Comandos Markdown.md",
     "Anexos/Pasted image 20240507215017.png",
-    "Anexos/Pasted image 20240507214956.png",
-    "Anexos/Pasted image 20240506223811.png",
-    "Anexos/Pasted image 20240506223440.png",
-    "Anexos/Pasted image 20240506222930.png",
-    "Anexos/Pasted image 20240506220117.png",
-    "ENGENHARIA DE SOFTWARE/2 Compreender o Usuário e Desenvolver Ideias.md",
     "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
     "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "ENGENHARIA DE SOFTWARE/8 COCOMO.md",
     "ENGENHARIA DE SOFTWARE/7 SLOC E KSLOC.md",
-    "Design de interação/3 ERGONOMIA DOS ELEMETOS.md",
-    "Anexos/Pasted image 20240505222221.png",
-    "Anexos/Pasted image 20240505222122.png",
-    "Anexos/Pasted image 20240505221842.png",
-    "Anexos/Pasted image 20240505221627.png",
+    "Design de interação/4 ERGONOMIA DOS ELEMETOS.md",
     "Design de interação/1 Psicologia Cognitiva.md",
-    "Design de interação/2 LAYOUTS.md",
+    "Design de interação/3 LAYOUTS.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "2024-04-25.md",
@@ -277,7 +279,6 @@
     "SISTEMAS DE INFORMAÇÃO/blockchain.md",
     "Análise de sistemas/7 Outros Diagramas.md",
     "Análise de sistemas/6 DIAGRAMA DE CLASSES.md",
-    "Análise de sistemas/5 UML.md",
     "Sem título",
     "fundamentos da programação WEB",
     "Análise de sistemas",
