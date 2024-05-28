@@ -46,3 +46,12 @@ Algumas ferramentas de baixa fidelidade para elaborar tela do aplicativo
 
 - ver video aula deseign de interaçÃo/A6/PROTOTIPAÇÃO-QUANT-UX-PARTE 1
 ----
+# 🛰RECURSOS PARA DESIGN
+
+## <span style="color:aquamarine">■ Fontes Google</span>
+- www.fonts.google.com
+![[Pasted image 20240509214716.png|500]]
+
+## <span style="color:aquamarine">Material de design do google</span>
+- www.material.io/resources
+![[Pasted image 20240509214938.png|500]]
