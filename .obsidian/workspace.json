@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
+                "file": "Estruturas de dados/ALGORITMO DE ORDENAÇÃO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e65e9a9f925bcba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
+                "file": "Estruturas de dados/ALGORITMO DE ORDENAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
+                "file": "Estruturas de dados/ALGORITMO DE ORDENAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md"
+                "file": "Estruturas de dados/ALGORITMO DE ORDENAÇÃO.md"
               }
             }
           }
@@ -166,20 +178,22 @@
   },
   "active": "06f38aa629d77efc",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240530121244.png",
-    "Anexos/Pasted image 20240530121215.png",
-    "Anexos/Pasted image 20240530120921.png",
-    "Cores Markedown.md",
-    "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
-    "Anexos/Pasted image 20240530112918.png",
-    "Anexos/Pasted image 20240530112829.png",
-    "Anexos/Pasted image 20240530112812.png",
-    "Anexos/Pasted image 20240530112753.png",
-    "Anexos/Pasted image 20240530112719.png",
-    "Anexos/Pasted image 20240530112554.png",
-    "Anexos/Pasted image 20240530110712.png",
-    "Anexos/Pasted image 20240530110651.png",
+    "Anexos/Pasted image 20240531153337.png",
     "teclas simbolos.md",
+    "Estruturas de dados/ALGORITMO DE ORDENAÇÃO.md",
+    "Anexos/Pasted image 20240531152221.png",
+    "Anexos/Pasted image 20240531152142.png",
+    "Anexos/Pasted image 20240531151544.png",
+    "Anexos/Pasted image 20240531151425.png",
+    "Anexos/Pasted image 20240531151413.png",
+    "Anexos/Pasted image 20240531151356.png",
+    "Anexos/Pasted image 20240531151341.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240531151302.png",
+    "Anexos/Pasted image 20240531151234.png",
+    "Anexos/Pasted image 20240531145240.png",
+    "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
+    "Sem título.md",
     "Comandos Markdown.md",
     "Estruturas de dados/0 RECURSIVIDADE.md",
     "Comandos do terminal do windows.md",
@@ -201,8 +215,6 @@
     "Análise de sistemas/0 Processos.md",
     "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
     "SISTEMAS DE INFORMAÇÃO/OTIMIZAÇÃO DE SITE ( CONCEITOS ).md",
-    "SISTEMAS DE INFORMAÇÃO/Metaverso(tópicos).md",
-    "SISTEMAS DE INFORMAÇÃO/Inteligência Artificial.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",

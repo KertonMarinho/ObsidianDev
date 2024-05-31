@@ -110,3 +110,83 @@ Observe o exemplo a seguir: há dois laços aninhados, portanto, teremos O(n²),
 ![[Pasted image 20240530121215.png]]
 3. Por fim, fazemos: 
 ![[Pasted image 20240530121244.png]]
+----
+## <span style="color:yellow">■ Exemplo: Série de  Fibonasci</span>
+![[Pasted image 20240531132744.png]]
+```python
+#Fibonacci recursivo
+def fib(n):
+  if n == 1 or n == 2:
+    return 1
+  else:
+    return fib(n - 1) + fib(n - 2)  
+#programa princinpal
+x = fib(5)
+print(x)
+```
+![[Pasted image 20240531132916.png]]
+``Arvore binária
+
+----
+# <span style="color:yellow">■ Equação geral da recursividade</span>
+
+O (uma chamada) * O (n° de chamadas<sup>n° níveis</sup>)
+
+☐ Restrições:
+- Número de chamadas deve ser estritamente maior do que 1.
+- Se o número de chamadas for igual a 1,  teremos uma cadeia linear de chamadas(como na fotorial)
+![[Pasted image 20240531133850.png]]
+---
+# <span style="color:red">■ RESUMO</span> 
+![[Pasted image 20240531134022.png]]
+![[Pasted image 20240531134107.png]]
+
+----
+---
+# ✅ ATIVIDADE PLÁTICA
+
+<span style="color:salmon">Exercícios:</span> 
+☐ Vamos  encontrar a complexidade assintótica(Big-O) dos seguintes algoritmos escritos em linguagem Python
+```python
+#Exercício 1
+
+def Exercicio1 (dados):
+  for i in range(0, len(dados)/2, 1):
+    dados[i] = i * 2
+```
+![[Pasted image 20240531140331.png]]
+```python
+#Exercício 2
+
+def Exercicio2 (dados):
+  for i in range(0, len(dados), 1):
+    dados[i] = i + 1
+  for i in range(0, len(dados), 1):
+    dados[i] = i - 1
+```
+![[Pasted image 20240531140449.png]]
+```python
+#Exercício 3
+
+def Exercicio3 (dados):
+  for i in range(0, len(dados), 1):
+    for j in range(0, len(dados), 1):
+      dados[i] = dados[j] + 1
+```
+![[Pasted image 20240531140541.png]]
+# # PA Não constante
+![[Pasted image 20240531140706.png]]
+![[Pasted image 20240531140738.png]]
+```python
+#Exercício 4
+
+def Exercicio4 (dados):
+  for i in range(0, len(dados), 1):
+    for j in range(0, len(dados), 1):
+      for k in range(0, 9000000, 1):
+        dados[i] = dados[j] + 1
+```
+![[Pasted image 20240531141019.png]]
+![[Pasted image 20240531141127.png]]
+![[Pasted image 20240531141346.png]]
+![[Pasted image 20240531141520.png]]
