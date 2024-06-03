@@ -158,3 +158,74 @@ print(dados)
 ---
 ---
 # ✅QUICK SORT
+- Estratégia de dividir para conquistar
+- Opera diferentemente do Merge Sort
+![[Pasted image 20240601114108.png]]
+```python
+#Versão clássica
+
+def quickSort(dados,inicio,fim):
+
+  if inicio < fim:
+    posicao_de_particionamento = partition(dados,inicio,fim)
+    quickSort(dados,inicio,posicao_de_particionamento - 1)
+    quickSort(dados,posicao_de_particionamento + 1,fim)
+
+def partition(dados,inicio,fim):
+  pivo = dados[inicio]
+  esq = inicio + 1
+  dir = fim
+  flag = False
+
+  while not flag:
+    while esq <= dir and dados[esq] <= pivo:
+      esq = esq + 1
+
+    while dir >= esq and dados[dir] >= pivo:
+      dir = dir -1
+
+    if dir < esq:
+      flag = True
+    else:
+
+      temp = dados[esq]
+      dados[esq] = dados[dir]
+      dados[dir] = temp
+
+  temp = dados[inicio]
+  dados[inicio] = dados[dir]
+  dados[dir] = temp
+  return dir
+#Programa Principal
+
+dados = [50,25,92,16,76,30,43,54,19]
+quickSort(dados,0,len(dados)-1)
+print(dados)
+```
+## <span style="color:#BDB76B">■ Complexidade do Quick Sort</span>
+![[Pasted image 20240601120351.png|400]]
+
+---
+![[Pasted image 20240601120527.png]]
+```PYTHON
+#Versão simplificada usando as característica do Python
+
+def quickSort(dados):
+
+  if len(dados) < 2:
+    return dados
+
+  else:
+    pivo = dados[0]
+    menores = [i for i in dados[1:] if i <= pivo]
+    maiores = [i for i in dados[1:] if i >  pivo]
+
+    return quickSort(menores) + [pivo] + quickSort(maiores)
+
+#Programa Principal
+dados = [50, 25, 92, 16, 76, 30, 43, 54, 19]
+dados = quickSort(dados)
+print(dados)
+```
+---
+# 
