@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
+                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
+                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
+                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md"
+                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md"
               }
             }
           }
@@ -178,23 +178,25 @@
   },
   "active": "06f38aa629d77efc",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240602230513.png",
-    "Anexos/Pasted image 20240602230245.png",
-    "Anexos/Pasted image 20240602225943.png",
-    "Anexos/Pasted image 20240602225713.png",
-    "Anexos/Pasted image 20240602225156.png",
-    "Anexos/Pasted image 20240602224806.png",
+    "Anexos/Pasted image 20240603220649.png",
+    "Anexos/Pasted image 20240603215521.png",
     "Cores Markedown.md",
+    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+    "Anexos/Pasted image 20240603214046.png",
+    "Anexos/Pasted image 20240603213716.png",
     "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
-    "Anexos/Pasted image 20240602222833.png",
-    "Anexos/Pasted image 20240602222332.png",
-    "Anexos/Pasted image 20240602221924.png",
-    "Anexos/Pasted image 20240602221253.png",
+    "Sem título 1",
+    "Anexos/Pasted image 20240603212030.png",
+    "Anexos/Pasted image 20240603210820.png",
+    "Anexos/Pasted image 20240603210625.png",
+    "Anexos/Pasted image 20240603205217.png",
+    "Anexos/Pasted image 20240603204356.png",
+    "Anexos/Pasted image 20240603203601.png",
+    "Anexos/Pasted image 20240603203502.png",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
     "teclas simbolos.md",
-    "Anexos/Pasted image 20240602220457.png",
     "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
     "Sem título.md",
     "Estruturas de dados/0 RECURSIVIDADE.md",
@@ -214,17 +216,15 @@
     "Análise de sistemas/2 Diagrama de fluxo de dados(dfd).md",
     "Análise de sistemas/1 BPMN.md",
     "Análise de sistemas/0 Processos.md",
-    "SISTEMAS DE INFORMAÇÃO/Sigla  ou conceitos de negócios eletrônicos.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",
     "Design de interação",
-    "Sem título",
+    "DevOps e Integração Contínua",
     "fundamentos da programação WEB",
     "Análise de sistemas",
     "Desenvolvimento mobile/Android Studio",
     "Desenvolvimento mobile",
-    "SISTEMAS DE INFORMAÇÃO",
-    "Anexos/Roteiro Utilizacao Figma 1.pdf"
+    "SISTEMAS DE INFORMAÇÃO"
   ]
 }
