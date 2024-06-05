@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+                "file": "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cores Markedown.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+                "file": "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+                "file": "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md"
+                "file": "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md"
               }
             }
           }
@@ -178,25 +178,26 @@
   },
   "active": "06f38aa629d77efc",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240603220649.png",
-    "Anexos/Pasted image 20240603215521.png",
+    "Anexos/Pasted image 20240604215246.png",
+    "Anexos/Pasted image 20240604215009.png",
+    "Anexos/Pasted image 20240604214944.png",
+    "Anexos/Pasted image 20240604214911.png",
+    "Anexos/Pasted image 20240604214514.png",
     "Cores Markedown.md",
-    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
-    "Anexos/Pasted image 20240603214046.png",
-    "Anexos/Pasted image 20240603213716.png",
+    "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
+    "Anexos/Pasted image 20240604213927.png",
+    "Anexos/Pasted image 20240604212412.png",
+    "Anexos/Pasted image 20240604212237.png",
+    "Anexos/Pasted image 20240604211800.png",
+    "teclas simbolos.md",
+    "Anexos/Pasted image 20240604210840.png",
+    "Anexos/Pasted image 20240604210657.png",
     "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
+    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
     "Sem título 1",
-    "Anexos/Pasted image 20240603212030.png",
-    "Anexos/Pasted image 20240603210820.png",
-    "Anexos/Pasted image 20240603210625.png",
-    "Anexos/Pasted image 20240603205217.png",
-    "Anexos/Pasted image 20240603204356.png",
-    "Anexos/Pasted image 20240603203601.png",
-    "Anexos/Pasted image 20240603203502.png",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
-    "teclas simbolos.md",
     "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
     "Sem título.md",
     "Estruturas de dados/0 RECURSIVIDADE.md",
@@ -215,7 +216,6 @@
     "Análise de sistemas/3 ENGENHARIA DE REQUISITOS.md",
     "Análise de sistemas/2 Diagrama de fluxo de dados(dfd).md",
     "Análise de sistemas/1 BPMN.md",
-    "Análise de sistemas/0 Processos.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",
