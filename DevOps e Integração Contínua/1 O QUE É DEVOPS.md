@@ -36,3 +36,24 @@
 
 ----
 # A CULTURA DEVOPS: PRINCÍPIOS E VALORES
+
+## <span style="color:#FF4500">■ Princípios</span>
+### ☐ Integração contínua(CI)
+- <u>O que é:</u> automatização de integração de código frequentemente, garantido que as alterações sejam integradas e testadas de maneira contínua
+- <u> Benefícios:</u>  redução de conflitos de código, identificação rápida de erros e melhoria da qualidade da software
+### ☐ Integra Contínua(CD)
+- <u>O que é</u>: automação do processo de liberação de software para ambientes de teste e produção, permitindo entregas frequentes e confiáveis
+- <u>Benefícios</u>: redução do tempo entre o desenvolvimento e a disponibilidade do produto, facilitando a inovação e a adaptação rápida às mudanças.
+
+### ☐ Mais princípios:
+- Automação de infraestrutura
+- Monitoramento contínuo
+- Testes automatizados
+- Gerenciamento de configuração
+- Colaboração entre equipes
+- Segurança DevSecOps
+---
+---
+# CULTURA E PRÁTICAS DEVOPS NA VIDA REAL
+![[Pasted image 20240606221148.png]]
+
