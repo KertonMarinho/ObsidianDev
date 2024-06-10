@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+                "file": "Estruturas de dados/5 TABELA HASH.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f893542f075246f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ac55a5f45637590f",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+                "file": "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+                "file": "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps e Integração Contínua/1 O QUE É DEVOPS.md"
+                "file": "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md"
               }
             }
           }
@@ -176,30 +189,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "06f38aa629d77efc",
+  "active": "7f893542f075246f",
   "lastOpenFiles": [
+    "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS.md",
+    "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
+    "Anexos/Pasted image 20240609225012.png",
+    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+    "Estruturas de dados/5 TABELA HASH.md",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240609223040.png",
+    "Sem título.md",
+    "Anexos/Pasted image 20240609221832.png",
+    "Anexos/Pasted image 20240609221756.png",
+    "Anexos/Pasted image 20240609221505.png",
+    "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
     "Anexos/Pasted image 20240606221148.png",
     "teclas simbolos.md",
-    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
-    "Cores Markedown.md",
-    "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
     "Anexos/Pasted image 20240606213421.png",
     "Anexos/Pasted image 20240606211656.png",
     "Anexos/Pasted image 20240606211619.png",
     "Anexos/Pasted image 20240606211611.png",
-    "Anexos/Pasted image 20240606211558.png",
-    "Anexos/Pasted image 20240606211437.png",
-    "Anexos/Pasted image 20240606211347.png",
-    "Anexos/Pasted image 20240606211210.png",
-    "Anexos/Pasted image 20240606211043.png",
-    "Anexos/Pasted image 20240606205731.png",
     "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
     "Sem título 1",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
     "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
-    "Sem título.md",
     "Estruturas de dados/0 RECURSIVIDADE.md",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
     "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
@@ -214,8 +229,6 @@
     "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
     "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "Análise de sistemas/3 ENGENHARIA DE REQUISITOS.md",
-    "Análise de sistemas/2 Diagrama de fluxo de dados(dfd).md",
-    "Análise de sistemas/1 BPMN.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",
