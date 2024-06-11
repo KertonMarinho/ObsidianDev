@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6763e5f3390da5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estruturas de dados/5 TABELA HASH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ac55a5f45637590f",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
+                "file": "Estruturas de dados/5 TABELA HASH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
+                "file": "Estruturas de dados/5 TABELA HASH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md"
+                "file": "Estruturas de dados/5 TABELA HASH.md"
               }
             }
           }
@@ -189,26 +201,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f893542f075246f",
+  "active": "6763e5f3390da5d0",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240610224512.png",
+    "Cores Markedown.md",
+    "Estruturas de dados/5 TABELA HASH.md",
+    "Anexos/Pasted image 20240610223930.png",
+    "Anexos/Pasted image 20240610223752.png",
+    "Anexos/Pasted image 20240610223622.png",
+    "Anexos/Pasted image 20240610223349.png",
+    "Anexos/Pasted image 20240610222925.png",
+    "Anexos/Pasted image 20240610222756.png",
+    "Anexos/Pasted image 20240610222455.png",
+    "Anexos/Pasted image 20240610222254.png",
+    "teclas simbolos.md",
+    "Anexos/Pasted image 20240610221715.png",
     "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS.md",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
     "Anexos/Pasted image 20240609225012.png",
     "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
-    "Estruturas de dados/5 TABELA HASH.md",
-    "Cores Markedown.md",
-    "Anexos/Pasted image 20240609223040.png",
     "Sem título.md",
-    "Anexos/Pasted image 20240609221832.png",
-    "Anexos/Pasted image 20240609221756.png",
-    "Anexos/Pasted image 20240609221505.png",
     "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
-    "Anexos/Pasted image 20240606221148.png",
-    "teclas simbolos.md",
-    "Anexos/Pasted image 20240606213421.png",
-    "Anexos/Pasted image 20240606211656.png",
-    "Anexos/Pasted image 20240606211619.png",
-    "Anexos/Pasted image 20240606211611.png",
     "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
     "Sem título 1",
     "Comandos Markdown.md",
@@ -228,7 +241,6 @@
     "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
     "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
     "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
-    "Análise de sistemas/3 ENGENHARIA DE REQUISITOS.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",

@@ -52,3 +52,184 @@ for fruta in caderno.keys():
 ---
 ---
 # FUNÇÃO HASH
+- Conhecido como algoritmo de hash
+- É uma expressão aritmética e/ou lógica específica para resolver uma determinada aplicação
+- A função hash não apresenta uma forma definida
+- Deve ser projetada levando-se em consideração o tamanho do conjunto de dados, seu comportamento e os tipos de dados-chave utilizados
+![[Pasted image 20240610221715.png]]
+
+## <span style="color:yellow">■ Uma boa função hash</span>
+☐ Fácil de ser calculada
+- De nada valeria termos uma função com cálculos tão complexos e lentos que todo o tempo que seria ganho no acesso à informação com complexidade O(1), seria perdido calculando uma custosa função do array.
+☐ Capaz de distribuir palavras-chaves o mais uniformemente possível dentro da estrutura do array
+
+##  <span style="color:#32CD32">■ Método da divisão</span> 
+![[Pasted image 20240610222254.png|300]]
+- Em que K é uma chave qualquer, n é o tamanho do array, e MOD representa o resto de uma divisão.
+![[Pasted image 20240610222455.png|500]]
+---
+# Hash universal
+
+![[Pasted image 20240610222925.png|500]]
+- O uso de uma única função hash pode resultar em uma situação em que todas as chaves precisam ser inseridas na mesma posição, gerando colisão e, consequentemente, piorando o desempenho do algoritmo.
+- Para minimizar esse problema, adotamos um conjunto H de funções hash. Sorteamos uma função dentro da classe de funções disponíveis para fazer a inserção do dado.
+![[Pasted image 20240610223349.png]]
+---
+---
+# IMPLEMENTANDO UMA TABELA HASH
+![[Pasted image 20240610223622.png]]
+
+![[Pasted image 20240610223752.png]]
+
+## <span style="color:salmon">■ Velocidade de busca</span> 
+![[Pasted image 20240610223930.png|500]]
+
+## <span style="color:red">Implementação em linguagem Python</span> 
+```python
+def hashFunc (k, n):
+    return k % n
+
+def hashFuncSigla (k, n):
+    k = list(k)
+    return (ord(k[0]) + ord(k[1])) % n 
+    
+#Programa principal
+n = 10
+tabelaHash = [None] * n
+while True:
+  print('1 - Inserir na tabela hash')
+  print('2 - Remover na tabela hash')
+  print('3 - Listar a tabela hash')
+  print('4 - Sair')
+
+  op = int(input("Escolha uma opção:"))
+  if op == 1:
+    chave = input('Digite a sigla de um estado: ')
+    pos = hashFuncSigla(chave, n)
+    if tabelaHash[pos] == None:
+        tabelaHash[pos] = chave
+    else:
+        print('Já existe um dado neste lugar!')
+  elif op == 2:
+    chave = int(input('Digite o que deseja remover: '))
+    pos = hashFuncSigla(chave, n)
+    if tabelaHash[pos] == chave:
+        tabelaHash[pos] = None
+    else:
+        print('Valor não localizado para a remoção!')
+  elif op == 3:
+      print(tabelaHash)
+  elif op == 4:
+    print('Encerrando...')
+    break
+  else:
+    print("Selecione outra opção!\n")
+```
+![[Pasted image 20240610224512.png]]
+
+Claro, vou explicar os códigos fornecidos com comentários:
+
+### Função de Hashing com números
+
+```python
+def hashFunc(k, n):
+    return k % n
+```
+Esta função `hashFunc` recebe dois parâmetros:
+- `k`: a chave que será inserida na tabela hash.
+- `n`: o tamanho da tabela hash.
+
+Ela retorna o resto da divisão de `k` por `n`. Esse resto é a posição onde a chave será armazenada na tabela hash.
+
+### Função de Hashing com Siglas
+
+```python
+def hashFuncSigla(k, n):
+    k = list(k)  # Converte a string `k` em uma lista de caracteres.
+    return (ord(k[0]) + ord(k[1])) % n
+```
+Esta função `hashFuncSigla` também recebe dois parâmetros:
+- `k`: a chave, que neste caso é uma sigla de dois caracteres.
+- `n`: o tamanho da tabela hash.
+
+Ela converte a string `k` em uma lista de caracteres e calcula a soma dos valores ASCII dos dois primeiros caracteres da lista. Em seguida, retorna o resto da divisão dessa soma por `n`. Esse valor é a posição onde a sigla será armazenada na tabela hash.
+
+### Programa Principal
+
+```python
+# Define o tamanho da tabela hash
+n = 10
+# Cria a tabela hash com `n` posições, inicialmente vazias (`None`)
+tabelaHash = [None] * n
+
+while True:
+    # Menu de opções para o usuário
+    print('1 - Inserir na tabela hash')
+    print('2 - Remover na tabela hash')
+    print('3 - Listar a tabela hash')
+    print('4 - Sair')
+
+    # Lê a opção escolhida pelo usuário
+    op = int(input("Escolha uma opção:"))
+    
+    if op == 1:
+        # Opção 1: Inserir uma nova sigla na tabela hash
+        chave = input('Digite a sigla de um estado: ')
+        pos = hashFuncSigla(chave, n)  # Calcula a posição usando a função de hash
+        if tabelaHash[pos] == None:
+            tabelaHash[pos] = chave  # Insere a sigla na posição calculada
+        else:
+            print('Já existe um dado neste lugar!')
+    
+    elif op == 2:
+        # Opção 2: Remover uma sigla da tabela hash
+        chave = input('Digite a sigla que deseja remover: ')
+        pos = hashFuncSigla(chave, n)  # Calcula a posição usando a função de hash
+        if tabelaHash[pos] == chave:
+            tabelaHash[pos] = None  # Remove a sigla da posição calculada
+        else:
+            print('Valor não localizado para a remoção!')
+    
+    elif op == 3:
+        # Opção 3: Listar todos os elementos da tabela hash
+        print(tabelaHash)
+    
+    elif op == 4:
+        # Opção 4: Sair do programa
+        print('Encerrando...')
+        break  # Sai do loop `while`
+    
+    else:
+        # Opção inválida
+        print("Selecione outra opção!\n")
+```
+
+### Explicação do Programa Principal:
+
+1. **Inicialização**:
+   - `n` é definido como 10, o que significa que a tabela hash terá 10 posições.
+   - `tabelaHash` é inicializada com 10 elementos `None`.
+
+2. **Loop Principal**:
+   - Um loop `while` é usado para exibir um menu de opções até que o usuário escolha sair.
+   
+3. **Opções do Menu**:
+   - **Opção 1**: Permite ao usuário inserir uma sigla na tabela hash.
+     - A função `hashFuncSigla` calcula a posição na tabela onde a sigla será armazenada.
+     - Se a posição estiver vazia (`None`), a sigla é inserida. Caso contrário, uma mensagem de erro é exibida.
+   
+   - **Opção 2**: Permite ao usuário remover uma sigla da tabela hash.
+     - A função `hashFuncSigla` calcula a posição da tabela onde a sigla deveria estar armazenada.
+     - Se a sigla na posição correspondente for a mesma que o usuário deseja remover, ela é removida (definida como `None`). Caso contrário, uma mensagem de erro é exibida.
+   
+   - **Opção 3**: Exibe o conteúdo da tabela hash.
+   
+   - **Opção 4**: Sai do programa.
+   
+   - Se uma opção inválida for escolhida, uma mensagem de erro é exibida.
+
+Esse programa é uma implementação básica de uma tabela hash, utilizando siglas de estados como chaves e uma função de hashing simples para calcular as posições na tabela.
+
+---
+---
+# Colisões em tabelas hash
