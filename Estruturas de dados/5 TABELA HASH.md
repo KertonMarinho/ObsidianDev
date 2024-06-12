@@ -233,3 +233,263 @@ Esse programa é uma implementação básica de uma tabela hash, utilizando sigl
 ---
 ---
 # Colisões em tabelas hash
+- É impossível escrevermos uma função hash que seja livre de colisões
+- Ocorrem quando uma chave precisa ser posicionada em uma posição em que já existe outra chave
+### Existe três tipos de soluções para colisões:
+
+## <span style="color:yellow">■ Endereçamento aberto</span>(duas)
+- Quando todas as posições são conhecidas e se tem cada uma, no máximo, uma chave
+![[Pasted image 20240611222709.png|500]]
+![[Pasted image 20240611222840.png|500]]
+![[Pasted image 20240611223207.png|500]]
+## <span style="color:yellow">■ Endereçamento em cadeia</span>
+- Cada posição poderá conter diversas chaves encadeadas
+- A forma de implementar é utilizando uma lista encadeada simples
+![[Pasted image 20240611223612.png|500]]
+![[Pasted image 20240611223721.png|500]]
+
+---
+---
+# IMPLEMENTANDO COLISÕES E DESEMPENHO HASH
+## Endereçamento aberto e tentativa linear
+## <span style="color:orange">■ Vamos implementar em Python</span>
+- mesmo código básico anterior acrescido do tratamento das colisões:
+```python
+#Tentativa linear
+def tentativaLinear(k, n, pos, tabelaHash):
+  tentativa = pos
+  while (tabelaHash[tentativa] != None):
+    tentativa += 1
+    if tentativa == n:
+      tentativa = 0
+    if tentativa == pos:
+      tentativa = -1
+      break
+  return tentativa
+  
+  #Tentativa linear
+def tentativaLinear(k, n, pos, tabelaHash):
+  tentativa = pos
+  
+  while (tabelaHash[tentativa] != None):
+    tentativa += 1
+    if tentativa == n:
+      tentativa = 0
+    if tentativa == pos:
+      tentativa = -1
+      break
+  return tentativa
+
+#Tentativa linear Remover
+def tentativaLinearDel(k, n, pos, tabelaHash):
+  tentativa = pos
+  while (tabelaHash[tentativa] != k):
+    tentativa += 1
+    if tentativa == n:
+      tentativa = 0
+    if tentativa == pos:
+      tentativa = -1
+      break
+  return tentativa
+
+#Programa principal
+n = 10
+tabelaHash = [None] * n
+while True:
+  print('1 - Inserir na tabela hash')
+  print('2 - Remover na tabela hash')
+  print('3 - Listar a tabela hash')
+  print('4 - Sair')
+  op = int(input("Escolha uma opção:"))
+  if op == 1:
+    chave = input('Digite a sigla de um estado: ')
+    pos = hashFuncSigla(chave, n)
+    if tabelaHash[pos] == None:
+        tabelaHash[pos] = chave
+
+    else: #Colisão!
+        pos = tentativaLinear(chave, n, pos, tabelaHash)
+        if pos != -1:
+          tabelaHash[pos] = chave
+        else:
+          print('Tabela hash cheia. Impossível inserir!')
+
+  elif op == 2:
+    chave = input('Digite o que deseja remover: ')
+    pos = hashFuncSigla(chave, n)
+    if tabelaHash[pos] == chave:
+        tabelaHash[pos] = None
+
+    else: #Colisão
+        pos = tentativaLinearDel(chave, n, pos, tabelaHash)
+        if pos != -1:
+          tabelaHash[pos] = None
+        else:
+            print('Valor não localizado para a remoção!')
+  elif op == 3:
+      print(tabelaHash)
+  elif op == 4:
+    print('Encerrando...')
+    break
+  else:
+    print("Selecione outra opção!\n")
+```
+
+## <span style="color:aquamarine">■ Fator de carga</span> 
+- Ajuda a definir se o tamanho da tabela hash é suficiente para uma determinada aplicação
+![[Pasted image 20240611225018.png]]
+<span style="color:orange">Exemplo:</span>
+![[Pasted image 20240611225046.png|500]]
+- Fator de carga acima de 1.0 indica a necessidade de redimensionar o array
+- Redimensionar o tempo todo tem um alto custo computacional
+---
+# Comparativo de desempenho
+![[Pasted image 20240611225334.png|500]]
+
+---
+---
+# Aula plática
+
+## <span style="color:#BDB76B">Tabela hash com tratamento linear</span>
+```python
+def hashFunc (k, n):
+    return k % n
+def hashFuncSigla (k, n):
+    k = list(k)
+    return (ord(k[0]) + ord(k[1])) % n
+    
+#Tentativa linear
+def tentativaLinear(k, n, pos, tabelaHash):
+  tentativa = pos
+  while (tabelaHash[tentativa] != None):
+    tentativa += 1
+    if tentativa == n:
+      tentativa = 0
+    if tentativa == pos:
+      tentativa = -1
+      break
+  return tentativa
+
+#Tentativa linear Remover
+def tentativaLinearDel(k, n, pos, tabelaHash):
+  tentativa = pos
+  while (tabelaHash[tentativa] != k):
+    tentativa += 1
+    if tentativa == n:
+      tentativa = 0
+    if tentativa == pos:
+      tentativa = -1
+      break
+  return tentativa
+
+#Programa principal
+n = 10
+tabelaHash = [None] * n
+
+while True:
+  print('1 - Inserir na tabela hash')
+  print('2 - Remover na tabela hash')
+  print('3 - Listar a tabela hash')
+  print('4 - Sair')
+  op = int(input("Escolha uma opção:"))
+  if op == 1:
+    chave = input('Digite a sigla de um estado: ')
+    pos = hashFuncSigla(chave, n)
+    if tabelaHash[pos] == None:
+        tabelaHash[pos] = chave
+    else: #Colisão!
+        pos = tentativaLinear(chave, n, pos, tabelaHash)
+        if pos != -1:
+          tabelaHash[pos] = chave
+        else:
+          print('Tabela hash cheia. Impossível inserir!')
+  elif op == 2:
+    chave = input('Digite o que deseja remover: ')
+    pos = hashFuncSigla(chave, n)
+    if tabelaHash[pos] == chave:
+        tabelaHash[pos] = None
+    else: #Colisão
+        pos = tentativaLinearDel(chave, n, pos, tabelaHash)
+        if pos != -1:
+          tabelaHash[pos] = None
+        else:
+            print('Valor não localizado para a remoção!')
+  elif op == 3:
+      print(tabelaHash)
+  elif op == 4:
+    print('Encerrando...')
+    break
+  else:
+    print("Selecione outra opção!\n")
+```
+
+## <span style="color:#BDB76B">TABELA HASH COM ENDEREÇAMENTO EM CADEIA</span>
+```python
+class ElementoDaListaSimples:
+    def __init__(self, chave=None, dado=None):
+        self.chave = chave
+        self.dado = dado
+        self.proximo = None
+
+class ListaEncadeadaSimples:
+    def __init__(self):
+        self.head = None
+    def inserir(self, chave, dado):
+        nodo = ElementoDaListaSimples(chave, dado)
+        if self.head == None:
+            self.head = nodo
+            return 0
+        else:
+            nodo.proximo = self.head
+            self.head = nodo
+            return 0
+
+    def imprimir(self):
+        temp = self.head
+        while temp:
+            print(f"{temp.chave}\t{temp.dado}")
+            temp = temp.proximo
+
+class TabelaHash:
+    def __init__(self):
+        self.tam = 10
+        self.length = 0
+        self.h = [ListaEncadeadaSimples() for i in range(0, self.tam)]
+
+    def hashFunc(self, k):
+        k = list(k)
+        return (ord(k[0]) + ord(k[1])) % self.tam
+
+    def inserir(self, chave, dado):
+        pos = self.hashFunc(chave)
+        add = self.h[pos].inserir(chave, dado)
+
+    def imprimir(self):
+        for i in range(0, self.tam):
+            self.h[i].imprimir()
+
+#Programa principal
+Teste = TabelaHash()
+while True:
+  print('1 - Inserir na tabela hash')
+  print('2 - Remover na tabela hash')
+  print('3 - Listar a tabela hash')
+  print('4 - Sair')
+
+  op = int(input("Escolha uma opção:"))
+  if op == 1:
+    chave = input('Digite a sigla de um estado: ')
+    dado = input('Digite o nome do estado: ')
+    Teste.inserir(chave, dado)
+  elif op == 2:
+    chave = input('Digite o que deseja remover: ')
+    
+#IMPLEMENTAR
+  elif op == 3:
+      Teste.imprimir()
+  elif op == 4:
+    print('Encerrando...')
+    break
+  else:
+    print("Selecione outra opção!\n")
+```

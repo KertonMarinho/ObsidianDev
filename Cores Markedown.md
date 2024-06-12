@@ -5,7 +5,7 @@
 
 <span style="color:orange">orange</span>
 ```
-<span style="color:orange">Exemplo</span>
+<span style="color:orange">Exemplo:</span>
 ```
 
 <span style="color:yellow">yellow</span>.
