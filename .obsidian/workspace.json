@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas de dados/5 TABELA HASH.md",
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas de dados/5 TABELA HASH.md",
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas de dados/5 TABELA HASH.md",
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas de dados/5 TABELA HASH.md"
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md"
               }
             }
           }
@@ -204,26 +204,27 @@
   "active": "6763e5f3390da5d0",
   "lastOpenFiles": [
     "Cores Markedown.md",
+    "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
+    "Anexos/Pasted image 20240612222618.png",
+    "Anexos/Pasted image 20240612222458.png",
+    "Anexos/Pasted image 20240612222356.png",
+    "Anexos/Pasted image 20240612222125.png",
+    "Anexos/Pasted image 20240612221745.png",
+    "teclas simbolos.md",
+    "Anexos/Pasted image 20240612221455.png",
+    "Anexos/Pasted image 20240612220815.png",
+    "Comandos Markdown.md",
+    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+    "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS.md",
     "Estruturas de dados/5 TABELA HASH.md",
     "Anexos/Pasted image 20240611225334.png",
     "Anexos/Pasted image 20240611225046.png",
     "Anexos/Pasted image 20240611225018.png",
-    "Anexos/Pasted image 20240611223721.png",
-    "Anexos/Pasted image 20240611223612.png",
-    "Anexos/Pasted image 20240611223207.png",
-    "Anexos/Pasted image 20240611222840.png",
-    "Anexos/Pasted image 20240611222709.png",
-    "Anexos/Pasted image 20240610224512.png",
-    "Anexos/Pasted image 20240610223930.png",
-    "teclas simbolos.md",
-    "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS.md",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
-    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
     "Sem título.md",
     "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
     "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
     "Sem título 1",
-    "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
     "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
@@ -239,7 +240,6 @@
     "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
     "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
     "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
-    "ENGENHARIA DE SOFTWARE/0 Fundamentos e modelos de processos prescritivos.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",
