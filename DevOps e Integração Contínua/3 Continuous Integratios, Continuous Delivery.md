@@ -52,3 +52,12 @@ Após a automação das compilações e dos testes de integração e unidade na 
 - <span style="color:orange">Nagios:</span> Nagios é uma ferramenta de monitoramento de infraestrutura de código aberto que ajuda a detectar e resolver problemas de rede e sistemas. Embora não seja diretamente uma ferramenta de Continuous Delivery, o Nagios pode ser integrado aos pipelines de CD para fornecer feedback em tempo real sobre a integridade e o desempenho dos sistemas durante o processo de entrega.
 - <span style="color:orange">Splunk:</span> plataforma de análise de dados que permite coletar, indexar e visualizar logs e métricas de aplicativos e infraestrutura. No contexto de Continuous Delivery, o Splunk pode ser usado para monitorar e analisar o desempenho dos aplicativos em tempo real, identificando problemas e gargalos que podem afetar a entrega.
 - <span style="color:orange">Terraform:</span> uma ferramenta de infraestrutura como código que permite provisionar e gerenciar recursos de infraestrutura de forma automatizada e declarativa. No contexto de Continuous Delivery, o Terraform pode ser usado para definir e versionar a infraestrutura necessária para executar aplicativos, garantindo que os ambientes de implantação sejam consistentes e replicáveis em todos os estágios do pipeline de entrega.
+---
+---
+# SCRIPTS DE CONSTRUÇÃO E AUTOMAÇÃO
+
+## <span style="color:aquamarine">ISSUES</span>
+- ABA DE TAREFAS
+## 
+- VÁRIOS CODIGOS PARALELOS E VC QUER HOUVIR TODOS
+- 

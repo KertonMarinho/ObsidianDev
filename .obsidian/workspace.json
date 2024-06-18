@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
+                "file": "Estruturas de dados/6 GRAFOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
+                "file": "Estruturas de dados/6 GRAFOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
+                "file": "Estruturas de dados/6 GRAFOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md"
+                "file": "Estruturas de dados/6 GRAFOS.md"
               }
             }
           }
@@ -203,23 +203,25 @@
   },
   "active": "6763e5f3390da5d0",
   "lastOpenFiles": [
-    "Cores Markedown.md",
-    "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
-    "Anexos/Pasted image 20240612222618.png",
-    "Anexos/Pasted image 20240612222458.png",
-    "Anexos/Pasted image 20240612222356.png",
-    "Anexos/Pasted image 20240612222125.png",
-    "Anexos/Pasted image 20240612221745.png",
+    "Anexos/Pasted image 20240617231502.png",
+    "Anexos/Pasted image 20240617230121.png",
     "teclas simbolos.md",
-    "Anexos/Pasted image 20240612221455.png",
-    "Anexos/Pasted image 20240612220815.png",
+    "Estruturas de dados/6 GRAFOS.md",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240617224710.png",
+    "Anexos/Pasted image 20240617224641.png",
+    "Anexos/Pasted image 20240617224606.png",
+    "Anexos/Pasted image 20240617224539.png",
+    "Anexos/Pasted image 20240617224450.png",
+    "Anexos/Pasted image 20240617224127.png",
+    "Anexos/Pasted image 20240617223655.png",
+    "Anexos/Pasted image 20240617223436.png",
+    "Anexos/Pasted image 20240617223043.png",
+    "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
     "Comandos Markdown.md",
     "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
     "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS.md",
     "Estruturas de dados/5 TABELA HASH.md",
-    "Anexos/Pasted image 20240611225334.png",
-    "Anexos/Pasted image 20240611225046.png",
-    "Anexos/Pasted image 20240611225018.png",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
     "Sem título.md",
     "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
@@ -239,7 +241,6 @@
     "ENGENHARIA DE SOFTWARE/7 SLOC E KSLOC.md",
     "ENGENHARIA DE SOFTWARE/6 PONTOS DE HISTÓRIAS.md",
     "ENGENHARIA DE SOFTWARE/4 ESTIMATIVAS DE ESFORÇO PARA DESENVOLVIMENTO DE SOFTWARE.md",
-    "ENGENHARIA DE SOFTWARE/1 Desenvolvimento ágil.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",
