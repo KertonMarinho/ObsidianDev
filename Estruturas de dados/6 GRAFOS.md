@@ -115,4 +115,484 @@ Na Figura abaixo, a seguir, iniciamos a primeira etapa de operação do método.
 
 Em seguida, acessamos o _head_ da lista encadeada de V<sub>1</sub>, que é V<sub>0</sub>, com um peso de aresta de 2. Assim, o cálculo da distância entre eles será o peso em <sup>V<sub>1</sub>=0</sup> acrescido do peso dessa aresta, resultando no valor 2. Esse valor, por ser menor do que infinito, é colocado no vetor na posição de V<sub>0</sub>. O cálculo está apresentado no canto inferior direito da Figura abaixo.
 ![[Pasted image 20240617231502.png]]
-seguimos na figura 34....
+seguimos na figura abaixo, 4, a seguir, acessando o segundo elemento da lista de vizinhos de 𝑉0. Em 𝑉2, fazemos o peso de 𝑉0 = 0 acrescido da aresta para 𝑉2, resultando no valor 4, que por ser menor do que infinito é colocado como rota válida entre 𝑉1 e 𝑉2.
+![[Pasted image 20240618215602.png]]
+A etapa 3 está na Figura abaixo, a seguir. De forma semelhante às duas etapas anteriores, calculamos a distância entre 𝑉1 e 𝑉3, resultando em 5, e colocamos no vetor de distâncias na posição de 𝑉3
+![[Pasted image 20240618215653.png]]
+Todos os vizinhos do vértice 𝑉1 têm suas rotas calculadas. Um panorama geral é apresentado na Figura 36, a seguir, indicando que todos os vizinhos foram calculados (cor verde)
+![[Pasted image 20240618215725.png]]
+Precisamos passar para o próximo vértice e calcular as rotas partindo de 𝑉1 e passando por este vértice intermediário. O vértice que vamos assumir agora é o de menor caminho no vetor distâncias e que ainda não tinha sido marcado. Será, portanto, o vértice 𝑉0, com distância para 𝑉1 sendo 2. Seu primeiro vizinho é o próprio vértice de origem 𝑉0, na Figura 37, a seguir. Como esse vértice já foi visitado, podemos pulá-lo nessa análise.
+![[Pasted image 20240618215758.png]]Na Figura 38 adiante, seguimos para o próximo vizinho de 𝑉0, o 𝑉3. Isso significa que calcularemos uma rota 𝑉1 → 𝑉0 → 𝑉3. O peso dessa rota será o peso até 𝑉0, já calculado e de valor 2, somado com o peso da aresta 𝑉0 e 𝑉3, que é 2 também. Assim 2 + 2 = 4. Observemos agora algo interessante. O peso da rota de 𝑉1 até 𝑉3, passando por 𝑉0, resultou em peso 4. Anteriormente, tínhamos calculado o peso da rota direta entre 𝑉1 e 𝑉3, cujo valor resultou em 5. Portanto, a rota passando por 𝑉0 tem um peso menor (4 < 5), resultando em uma nova rota até 𝑉3. Notemos que uma rota com peso menor, mesmo passando por um vértice a mais, acaba resultando em um caminho menor que o outro. 
+
+``Figura 38 – Algoritmo de Dijkstra, partindo de 𝑉1: etapa 6
+![[Pasted image 20240618215843.png]]
+Na Figura 39 adiante, já encerramos nossos cálculos passando pelo vértice 𝑉0 . Seguimos então para o próximo vértice não visitado e de menor distância no vetor, o vértice 𝑉2. O único vizinho de 𝑉2 é vértice origem 𝑉1, já visitado. Portanto, não existirá uma nova rota aqui. 29 
+``
+``Figura 39 – Algoritmo de Dijkstra, partindo de 𝑉1: etapa 7
+![[Pasted image 20240618215916.png]]
+Na Figura 40 adiante, seguimos para o próximo, e último, vértice não visitado e de menor distância no vetor, o vértice 𝑉3. O primeiro vizinho de 𝑉3 é 𝑉0, assim faremos o trajeto 𝑉1 → 𝑉3 → 𝑉0. O custo até 𝑉3 é 4 e o peso de 𝑉3 até 𝑉0 é 2, resultando em 6, custo superior a atualmente a rota de 4. 
+
+``Figura 40 – Algoritmo de Dijkstra, partindo de 𝑉1: etapa 8
+![[Pasted image 20240618215945.png]]
+Na Figura 41, a seguir, temos o segundo vizinho de 𝑉3, o 𝑉1, que é a própria origem. Portanto, não precisamos analisar. 
+
+``Figura 41 – Algoritmo de Dijkstra, partindo de 𝑉1: etapa 9
+![[Pasted image 20240618220008.png]]Na Figura 42, a seguir, já percorremos todos os vizinhos de todos os vértices e calculamos todas as rotas possíveis. Desse modo, as distâncias resultantes estão colocadas no vetor de distâncias, e abaixo de cada valor está a sequência de vértices para aquela rota. Por exemplo, para atingirmos o vértice 𝑉3, a melhor rota encontrada foi 𝑉1 → 𝑉0 → 𝑉3, e não 𝑉1 → 𝑉3 diretamente. 
+
+``Figura 42 – Algoritmo de Dijkstra, partindo de 𝑉1: etapa 10
+![[Pasted image 20240618220038.png]]
+
+---
+---
+# 🌚AULA PLÁTICA
+## <span style="color:aquamarine">■ Criando Grafos</span>
+Aqui está a implementação do grafo com lista de adjacência comentada, explicando cada função:
+
+```python
+# Implementação com lista de adjacência
+class Vertice:
+    def __init__(self, n):
+        # Inicializa o vértice com um nome e uma lista vazia de vizinhos
+        self.nome = n
+        self.vizinhos = list()
+
+    def addVizinho(self, v):
+        # Adiciona um vizinho ao vértice, se ainda não estiver presente
+        if v not in self.vizinhos:
+            self.vizinhos.append(v)
+            # Mantém a lista de vizinhos ordenada
+            self.vizinhos.sort()
+
+class Grafo:
+    # Dicionário de vértices, onde a chave é o nome do vértice e o valor é o objeto Vértice
+    vertices = {}
+
+    def addVertice(self, vertice):
+        # Verifica se o objeto é de fato um objeto de vértice e se ele ainda não existe no grafo
+        if isinstance(vertice, Vertice) and vertice.nome not in self.vertices:
+            # Adiciona o vértice no dicionário de vértices
+            self.vertices[vertice.nome] = vertice
+            return True
+        else:
+            return False
+
+    def addAresta(self, u, v):
+        # Verifica se ambos vértices de fato existem no grafo para criar a aresta
+        if u in self.vertices and v in self.vertices:
+            # Percorre todos os vértices no grafo
+            for key, valor in self.vertices.items():
+                # Adiciona v na lista de vizinhos de u
+                if key == u:
+                    valor.addVizinho(v)
+                # Adiciona u na lista de vizinhos de v
+                if key == v:
+                    valor.addVizinho(u)
+            return True
+        else:
+            return False
+
+    # Imprime a lista de adjacências do grafo
+    def printGrafo(self):
+        # Percorre todos os vértices ordenados pelo nome
+        for key in sorted(list(self.vertices.keys())):
+            # Imprime o nome do vértice e sua lista de vizinhos
+            print(key + str(self.vertices[key].vizinhos))
+
+# Programa principal:
+G = Grafo()
+# Adiciona vértices ao grafo, de 'A' a 'F'
+for i in range(ord('A'), ord('G')):
+    G.addVertice(Vertice(chr(i)))
+
+# Define as arestas a serem adicionadas no formato 'UV'
+arestas = ['AB', 'AD', 'BC', 'CD', 'CE', 'CF']
+# Adiciona cada aresta ao grafo
+for aresta in arestas:
+    G.addAresta(aresta[:1], aresta[1:])
+
+# Imprime a lista de adjacências do grafo
+G.printGrafo()
+```
+
+### Explicação dos principais componentes:
+
+1. **Classe `Vertice`**:
+    - `__init__`: Inicializa um vértice com um nome (`n`) e uma lista vazia de vizinhos.
+    - `addVizinho`: Adiciona um vizinho à lista de vizinhos, se ainda não estiver presente, e mantém a lista ordenada.
+
+2. **Classe `Grafo`**:
+    - `vertices`: Um dicionário onde as chaves são os nomes dos vértices e os valores são os objetos `Vertice`.
+    - `addVertice`: Adiciona um vértice ao grafo, verificando se é uma instância de `Vertice` e se ainda não está presente.
+    - `addAresta`: Adiciona uma aresta entre dois vértices, verificando se ambos os vértices existem no grafo. Adiciona cada vértice à lista de vizinhos do outro.
+    - `printGrafo`: Imprime a lista de adjacência de todos os vértices no grafo.
+
+3. **Programa Principal**:
+    - Cria uma instância do grafo.
+    - Adiciona vértices com os nomes de 'A' a 'F'.
+    - Adiciona arestas entre os vértices especificados na lista `arestas`.
+    - Imprime a lista de adjacência do grafo.
+
+---
+---
+# Aqui está a implementação do grafo com lista de adjacência comentada, explicando cada função:
+
+```python
+# Implementação com lista de adjacência
+class Vertice:
+    def __init__(self, n):
+        # Inicializa o vértice com um nome e uma lista vazia de vizinhos
+        self.nome = n
+        self.vizinhos = list()
+
+    def addVizinho(self, v):
+        # Adiciona um vizinho ao vértice, se ainda não estiver presente
+        if v not in self.vizinhos:
+            self.vizinhos.append(v)
+            # Mantém a lista de vizinhos ordenada
+            self.vizinhos.sort()
+
+class Grafo:
+    # Dicionário de vértices, onde a chave é o nome do vértice e o valor é o objeto Vértice
+    vertices = {}
+
+    def addVertice(self, vertice):
+        # Verifica se o objeto é de fato um objeto de vértice e se ele ainda não existe no grafo
+        if isinstance(vertice, Vertice) and vertice.nome not in self.vertices:
+            # Adiciona o vértice no dicionário de vértices
+            self.vertices[vertice.nome] = vertice
+            return True
+        else:
+            return False
+
+    def addAresta(self, u, v):
+        # Verifica se ambos vértices de fato existem no grafo para criar a aresta
+        if u in self.vertices and v in self.vertices:
+            # Percorre todos os vértices no grafo
+            for key, valor in self.vertices.items():
+                # Adiciona v na lista de vizinhos de u
+                if key == u:
+                    valor.addVizinho(v)
+                # Adiciona u na lista de vizinhos de v
+                if key == v:
+                    valor.addVizinho(u)
+            return True
+        else:
+            return False
+
+    # Imprime a lista de adjacências do grafo
+    def printGrafo(self):
+        # Percorre todos os vértices ordenados pelo nome
+        for key in sorted(list(self.vertices.keys())):
+            # Imprime o nome do vértice e sua lista de vizinhos
+            print(key + str(self.vertices[key].vizinhos))
+
+# Programa principal:
+G = Grafo()
+# Adiciona vértices ao grafo, de 'A' a 'F'
+for i in range(ord('A'), ord('G')):
+    G.addVertice(Vertice(chr(i)))
+
+# Define as arestas a serem adicionadas no formato 'UV'
+arestas = ['AB', 'AD', 'BC', 'CD', 'CE', 'CF']
+# Adiciona cada aresta ao grafo
+for aresta in arestas:
+    G.addAresta(aresta[:1], aresta[1:])
+
+# Imprime a lista de adjacências do grafo
+G.printGrafo()
+```
+
+### Explicação dos principais componentes:
+
+1. **Classe `Vertice`**:
+    - `__init__`: Inicializa um vértice com um nome (`n`) e uma lista vazia de vizinhos.
+    - `addVizinho`: Adiciona um vizinho à lista de vizinhos, se ainda não estiver presente, e mantém a lista ordenada.
+
+2. **Classe `Grafo`**:
+    - `vertices`: Um dicionário onde as chaves são os nomes dos vértices e os valores são os objetos `Vertice`.
+    - `addVertice`: Adiciona um vértice ao grafo, verificando se é uma instância de `Vertice` e se ainda não está presente.
+    - `addAresta`: Adiciona uma aresta entre dois vértices, verificando se ambos os vértices existem no grafo. Adiciona cada vértice à lista de vizinhos do outro.
+    - `printGrafo`: Imprime a lista de adjacência de todos os vértices no grafo.
+
+3. **Programa Principal**:
+    - Cria uma instância do grafo.
+    - Adiciona vértices com os nomes de 'A' a 'F'.
+    - Adiciona arestas entre os vértices especificados na lista `arestas`.
+    - Imprime a lista de adjacência do grafo.
+![[Pasted image 20240618221546.png]]
+
+---
+## <span style="color:brown">■ DFS</span>
+Aqui está a implementação do grafo com lista de adjacência comentada, explicando cada função:
+
+```python
+# Implementação com lista de adjacência
+class Vertice:
+    def __init__(self, n):
+        # Inicializa o vértice com um nome e uma lista vazia de vizinhos
+        self.nome = n
+        self.vizinhos = list()
+        
+        # Inicializa a ordem de descoberta e a flag de visitado
+        self.ordemDescoberta = 0
+        self.visitado = 0
+
+    def addVizinho(self, v):
+        # Adiciona um vizinho ao vértice, se ainda não estiver presente
+        if v not in self.vizinhos:
+            self.vizinhos.append(v)
+            # Mantém a lista de vizinhos ordenada
+            self.vizinhos.sort()
+
+class Grafo:
+    # Dicionário de vértices, onde a chave é o nome do vértice e o valor é o objeto Vertice
+    vertices = {}
+    # Variável global para controlar a ordem de descoberta dos vértices na DFS
+    ordem = 0
+
+    def addVertice(self, vertice):
+        # Verifica se o objeto é de fato um objeto de vértice e se ele ainda não existe no grafo
+        if isinstance(vertice, Vertice) and vertice.nome not in self.vertices:
+            # Adiciona o vértice no dicionário de vértices
+            self.vertices[vertice.nome] = vertice
+            return True
+        else:
+            return False
+
+    def addAresta(self, u, v):
+        # Verifica se ambos vértices de fato existem no grafo para criar a aresta
+        if u in self.vertices and v in self.vertices:
+            # Adiciona v na lista de vizinhos de u e u na lista de vizinhos de v
+            for key, valor in self.vertices.items():
+                if key == u:
+                    valor.addVizinho(v)
+                if key == v:
+                    valor.addVizinho(u)
+            return True
+        else:
+            return False
+
+    # Imprime a lista de adjacências do grafo
+    def printGrafo(self):
+        # Percorre todos os vértices ordenados pelo nome
+        for key in sorted(list(self.vertices.keys())):
+            # Imprime o nome do vértice, sua lista de vizinhos e sua ordem de descoberta
+            print(key + str(self.vertices[key].vizinhos) + ' ' + str(self.vertices[key].ordemDescoberta))
+
+    # Função recursiva auxiliar para DFS
+    def _dfs(self, vertice):
+        global ordem
+        # Marca o vértice como visitado e define sua ordem de descoberta
+        vertice.visitado = 1
+        vertice.ordemDescoberta = ordem
+        ordem += 1
+        # Chama a DFS recursivamente para cada vizinho não visitado
+        for v in vertice.vizinhos:
+            if self.vertices[v].visitado == 0:
+                self._dfs(self.vertices[v])
+
+    # Função principal para iniciar a DFS
+    def dfs(self, vertice):
+        global ordem
+        # Inicializa a ordem de descoberta
+        ordem = 1
+        # Chama a função auxiliar de DFS
+        self._dfs(vertice)
+
+# Programa principal:
+G = Grafo()
+# Cria o vértice de origem 'A'
+origem = Vertice('A')
+# Adiciona o vértice de origem ao grafo
+G.addVertice(origem)
+
+# Adiciona vértices ao grafo, de 'A' a 'F'
+for i in range(ord('A'), ord('G')):
+    G.addVertice(Vertice(chr(i)))
+
+# Define as arestas a serem adicionadas no formato 'UV'
+arestas = ['AB', 'AD', 'BC', 'CD', 'CE', 'CF']
+# Adiciona cada aresta ao grafo
+for aresta in arestas:
+    G.addAresta(aresta[:1], aresta[1:])
+
+# Executa a DFS a partir do vértice de origem
+G.dfs(origem)
+# Imprime a lista de adjacências do grafo
+G.printGrafo()
+```
+
+### Explicação dos principais componentes:
+
+1. **Classe `Vertice`**:
+    - `__init__`: Inicializa um vértice com um nome (`n`), uma lista vazia de vizinhos, a ordem de descoberta (`ordemDescoberta`) e uma flag de visitado (`visitado`).
+    - `addVizinho`: Adiciona um vizinho à lista de vizinhos, se ainda não estiver presente, e mantém a lista ordenada.
+
+2. **Classe `Grafo`**:
+    - `vertices`: Um dicionário onde as chaves são os nomes dos vértices e os valores são os objetos `Vertice`.
+    - `ordem`: Uma variável global para controlar a ordem de descoberta dos vértices durante a DFS.
+    - `addVertice`: Adiciona um vértice ao grafo, verificando se é uma instância de `Vertice` e se ainda não está presente.
+    - `addAresta`: Adiciona uma aresta entre dois vértices, verificando se ambos os vértices existem no grafo. Adiciona cada vértice à lista de vizinhos do outro.
+    - `printGrafo`: Imprime a lista de adjacência de todos os vértices no grafo, incluindo a ordem de descoberta.
+    - `_dfs`: Função recursiva auxiliar para realizar a DFS a partir de um vértice, marcando-o como visitado e definindo sua ordem de descoberta.
+    - `dfs`: Função principal para iniciar a DFS, inicializando a ordem de descoberta e chamando a função auxiliar `_dfs`.
+
+3. **Programa Principal**:
+    - Cria uma instância do grafo.
+    - Cria o vértice de origem 'A' e o adiciona ao grafo.
+    - Adiciona vértices com os nomes de 'A' a 'F'.
+    - Adiciona arestas entre os vértices especificados na lista `arestas`.
+    - Executa a DFS a partir do vértice de origem.
+    - Imprime a lista de adjacência do grafo, incluindo a ordem de descoberta de cada vértice.
+![[Pasted image 20240618221829.png]]
+
+---
+##  <span style="color:#32CD32">■ Algoritmo de dijkstra</span> 
+Aqui está a implementação do grafo com lista de adjacência e o algoritmo de Dijkstra comentada:
+
+```python
+# Implementação com lista de adjacência
+class Vertice:
+    def __init__(self, n):
+        # Inicializa o vértice com um nome, uma lista vazia de vizinhos e uma lista vazia de pesos
+        self.nome = n
+        self.vizinhos = list()
+        self.pesos = list()
+
+    def addVizinho(self, v, peso):
+        # Adiciona um vizinho e seu peso, se ainda não estiver presente
+        if v not in self.vizinhos:
+            self.vizinhos.append(v)
+            self.vizinhos.sort()  # Mantém a lista de vizinhos ordenada
+            self.pesos.append(peso)  # Adiciona o peso correspondente
+
+class Grafo:
+    vertices = {}
+    ordem = 0
+
+    def __init__(self):
+        # Inicializa o total de vértices no grafo
+        self.totalVertices = 0
+
+    def addVertice(self, vertice):
+        # Verifica se o objeto é de fato um objeto de vértice e se ele ainda não existe no grafo
+        if isinstance(vertice, Vertice) and vertice.nome not in self.vertices:
+            # Adiciona o vértice no dicionário de vértices e incrementa o total de vértices
+            self.vertices[vertice.nome] = vertice
+            self.totalVertices += 1
+            return True
+        else:
+            return False
+
+    def addAresta(self, u, v, peso):
+        # Verifica se ambos vértices existem no grafo para criar a aresta
+        if u in self.vertices and v in self.vertices:
+            for key, valor in self.vertices.items():
+                # Adiciona v na lista de vizinhos de u e u na lista de vizinhos de v com o peso correspondente
+                if key == u:
+                    valor.addVizinho(v, peso)
+                if key == v:
+                    valor.addVizinho(u, peso)
+            return True
+        else:
+            return False
+
+    # Imprime a lista de adjacências
+    def printGrafo(self):
+        # Percorre todos os vértices ordenados pelo nome
+        for key in sorted(list(self.vertices.keys())):
+            # Imprime o nome do vértice, sua lista de vizinhos e os pesos das arestas
+            print(key + str(self.vertices[key].vizinhos) + ' ' + str(self.vertices[key].pesos))
+
+    # Implementação do algoritmo de Dijkstra para encontrar o caminho mais curto a partir de um vértice de origem
+    def Dijkstra(self, origem):
+        # Inicializa as distâncias com infinito, visitados com 0 e predecessores com infinito
+        distancias = [float('inf') for i in range(0, self.totalVertices)]
+        visitados = [0 for i in range(0, self.totalVertices)]
+        predecessor = [float('inf') for i in range(0, self.totalVertices)]
+        nodos = [v for v in self.vertices]  # Lista de nomes dos vértices
+
+        # Define a distância do vértice de origem como 0
+        distancias[nodos.index(origem.nome)] = 0
+        predecessor[nodos.index(origem.nome)] = origem
+
+        for x in range(0, self.totalVertices):
+            # Encontra o próximo vértice com a menor distância
+            minDistancia = float('inf')
+            for v in range(0, self.totalVertices):
+                if(distancias[v] < minDistancia and visitados[v] == 0):
+                    minDistancia = distancias[v]
+                    idxProxVertice = v
+
+            # Marca o vértice com menor distância como visitado
+            visitados[idxProxVertice] = 1
+            nodoAtual = self.vertices[nodos[idxProxVertice]]
+            idx = 0
+            # Atualiza as distâncias dos vizinhos do vértice atual
+            for vizinho in nodoAtual.vizinhos:
+                if (visitados[nodos.index(vizinho)] == 0):
+                    if(minDistancia + nodoAtual.pesos[idx] < distancias[nodos.index(vizinho)]):
+                        distancias[nodos.index(vizinho)] = minDistancia + nodoAtual.pesos[idx]
+                        predecessor[nodos.index(vizinho)] = nodoAtual
+                idx += 1
+        r = 1
+
+        # Impressão dos caminhos
+        print('Vértice de Origem: {}'.format(origem.nome))
+        for i in range(1, self.totalVertices):
+            print('Distância para {} = {}'.format(nodos[i], distancias[i]))
+            print('Caminho: {} '.format(nodos[i]), end='')
+            j = i
+            atual = predecessor[j].nome
+            while (atual != origem.nome):
+                print('<- {} '.format(atual), end='')
+                atual = predecessor[nodos.index(atual)].nome
+            print('<- {} '.format(origem.nome))
+
+# Programa principal
+G = Grafo()
+# Cria o vértice de origem 'A'
+origem = Vertice('A')
+# Adiciona o vértice de origem ao grafo
+G.addVertice(origem)
+
+# Adiciona vértices ao grafo, de 'A' a 'F'
+for i in range(ord('A'), ord('G')):
+    G.addVertice(Vertice(chr(i)))
+
+# Define as arestas a serem adicionadas no formato 'UV' e seus respectivos pesos
+arestas = ['AB', 'AD', 'BC', 'CD', 'CE', 'CF']
+pesos = [10, 3, 4, 1, 2, 2]
+i = 0
+# Adiciona cada aresta com seu peso ao grafo
+for aresta in arestas:
+    G.addAresta(aresta[:1], aresta[1:], pesos[i])
+    i += 1
+
+# Executa o algoritmo de Dijkstra a partir do vértice de origem
+G.Dijkstra(origem)
+#G.printGrafo()  # Descomente para imprimir a lista de adjacências do grafo
+```
+
+### Explicação dos principais componentes:
+
+1. **Classe `Vertice`**:
+    - `__init__`: Inicializa um vértice com um nome (`n`), uma lista vazia de vizinhos e uma lista vazia de pesos.
+    - `addVizinho`: Adiciona um vizinho à lista de vizinhos, se ainda não estiver presente, e adiciona o peso correspondente à lista de pesos. Mantém a lista de vizinhos ordenada.
+
+2. **Classe `Grafo`**:
+    - `vertices`: Um dicionário onde as chaves são os nomes dos vértices e os valores são os objetos `Vertice`.
+    - `ordem`: Uma variável global para controle (não utilizada neste exemplo).
+    - `__init__`: Inicializa o total de vértices no grafo (`totalVertices`).
+    - `addVertice`: Adiciona um vértice ao grafo, verificando se é uma instância de `Vertice` e se ainda não está presente. Incrementa o total de vértices.
+    - `addAresta`: Adiciona uma aresta entre dois vértices, verificando se ambos os vértices existem no grafo. Adiciona cada vértice à lista de vizinhos do outro com o peso correspondente.
+    - `printGrafo`: Imprime a lista de adjacência de todos os vértices no grafo, incluindo os pesos das arestas.
+    - `Dijkstra`: Implementa o algoritmo de Dijkstra para encontrar o caminho mais curto a partir de um vértice de origem. Inicializa as distâncias, visitados e predecessores. Atualiza as distâncias dos vizinhos do vértice atual e imprime os caminhos mais curtos.
+
+3. **Programa Principal**:
+    - Cria uma instância do grafo.
+    - Cria o vértice de origem 'A' e o adiciona ao grafo.
+    - Adiciona vértices com os nomes de 'A' a 'F'.
+    - Adiciona arestas entre os vértices especificados na lista `arestas` com os respectivos pesos.
+    - Executa o algoritmo de Dijkstra a partir do vértice de origem e imprime os caminhos mais curtos.
+![[Pasted image 20240618222018.png]]

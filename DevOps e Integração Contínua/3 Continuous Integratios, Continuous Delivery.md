@@ -54,10 +54,22 @@ Após a automação das compilações e dos testes de integração e unidade na 
 - <span style="color:orange">Terraform:</span> uma ferramenta de infraestrutura como código que permite provisionar e gerenciar recursos de infraestrutura de forma automatizada e declarativa. No contexto de Continuous Delivery, o Terraform pode ser usado para definir e versionar a infraestrutura necessária para executar aplicativos, garantindo que os ambientes de implantação sejam consistentes e replicáveis em todos os estágios do pipeline de entrega.
 ---
 ---
-# SCRIPTS DE CONSTRUÇÃO E AUTOMAÇÃO
+# SCRIPTS DE CONSTRUÇÃO E AUTOMAÇÃO(gitHub)
 
+![[Pasted image 20240618222905.png|500]]
 ## <span style="color:aquamarine">ISSUES</span>
 - ABA DE TAREFAS
-## 
-- VÁRIOS CODIGOS PARALELOS E VC QUER HOUVIR TODOS
-- 
+## PULL REQUESTS
+- VÁRIOS CODIGOS PARALELOS E VC QUER UNIR TODOS EM UM SÓ
+##  ACTIONS
+- Processos que rodam quando vc está fazendo uma construção
+- POde criar uma porcessoas como eventos, estatus
+---
+---
+# 🌚Testes automatizados e garantia de qualidade
+![[Pasted image 20240618223040.png|500]]
+
+---
+---
+# 🤖Aula plática
+porou no 6:08

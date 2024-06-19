@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas de dados/6 GRAFOS.md",
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas de dados/6 GRAFOS.md",
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas de dados/6 GRAFOS.md",
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas de dados/6 GRAFOS.md"
+                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md"
               }
             }
           }
@@ -203,34 +203,33 @@
   },
   "active": "6763e5f3390da5d0",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240617231502.png",
-    "Anexos/Pasted image 20240617230121.png",
-    "teclas simbolos.md",
-    "Estruturas de dados/6 GRAFOS.md",
-    "Cores Markedown.md",
-    "Anexos/Pasted image 20240617224710.png",
-    "Anexos/Pasted image 20240617224641.png",
-    "Anexos/Pasted image 20240617224606.png",
-    "Anexos/Pasted image 20240617224539.png",
-    "Anexos/Pasted image 20240617224450.png",
-    "Anexos/Pasted image 20240617224127.png",
-    "Anexos/Pasted image 20240617223655.png",
-    "Anexos/Pasted image 20240617223436.png",
-    "Anexos/Pasted image 20240617223043.png",
-    "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
-    "Comandos Markdown.md",
-    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
     "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS.md",
+    "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
+    "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
+    "Anexos/Pasted image 20240618223040.png",
+    "Anexos/Pasted image 20240618222905.png",
+    "Estruturas de dados/6 GRAFOS.md",
+    "Anexos/Pasted image 20240618222018.png",
+    "Anexos/Pasted image 20240618221829.png",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240618221546.png",
+    "teclas simbolos.md",
+    "Estruturas de dados/0 RECURSIVIDADE.md",
+    "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
+    "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
+    "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
+    "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
     "Estruturas de dados/5 TABELA HASH.md",
+    "Anexos/Pasted image 20240618220038.png",
+    "Anexos/Pasted image 20240618220008.png",
+    "Anexos/Pasted image 20240618215945.png",
+    "Anexos/Pasted image 20240618215916.png",
+    "Anexos/Pasted image 20240618215843.png",
+    "Comandos Markdown.md",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
     "Sem título.md",
-    "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
-    "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
     "Sem título 1",
     "Comandos do terminal do windows.md",
-    "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
-    "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
-    "Estruturas de dados/0 RECURSIVIDADE.md",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
     "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
     "Estruturas de dados",
