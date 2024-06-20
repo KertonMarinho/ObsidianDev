@@ -71,5 +71,5 @@ Após a automação das compilações e dos testes de integração e unidade na 
 
 ---
 ---
-# 🤖Aula plática
-porou no 6:08
+# livro devops
+[DevOps Case Studies (itrevolution.com)](https://itrevolution.com/product/devops-case-studies/)
