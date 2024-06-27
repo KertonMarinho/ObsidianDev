@@ -43,3 +43,41 @@ A YAML (YAML Ain't Markup Language) é um formato de serialização de dados leg
 ---
 # 🦖Escalabilidade e distribuição com contêiners
 
+# <span style="color:yellow">■ IAC</span>
+- Código para gerar infraestrutura
+![[Pasted image 20240623213525.png]]
+
+# <span style="color:yellow">■ Vantagens e desvantagens</span>
+- Com a automatização do provisionamento e da configuração de recursos, a infraestrutura pode ser criada, modificada ou removida rapidamente, reduzindo o tempo de lançamento de novos produtos e serviços.
+- Redução de erros: A padronização e a consistência do código, aliados aos testes automatizados, diminuem significativamente a quantidade de erros humanos e a probidade de falhas na infraestrutura
+- Versionamento e rastreabilidade: O uso de sistemas de controle de versão, como git, permite rastrear mudanças, identificar problemas e reverter para versões anteriores, facilitando a manutenção e a auditoria
+- Escalabilidade e flexibilidade: A automação e a padronização proporcionadas pelo Terraform e IaC facilitam a escalabilidade de recursos e a adaptação a diferenças ambientais, diminuindo a necessidade de intervenção manual e possibilitando o uso de infraestrutura imutável
+- Redução de custos: A implementação de Terraform e Iac permite otimizar o uso de recursos, identificar a infraestrutura de acordo com as necessidades específicas de negócios. Isso resulta em economia de custos e maior eficiência operacional
+- Segurança e conformidade: A padronização do código e a integração com políticas de segurança garantem a conformidade coma as normas e regulamentações. Além disso, o suo de IaC permite a criação de ambientes isolados, que facilitam a detecção e a correção de vulnerabilidades
+---
+---
+
+# INSTALAÇÃO E USO  DO DOCKERS
+1. Instale o docker normalmente
+2. Mostrar os comandos do Docker
+```
+docker
+```
+3. No CMD, verifique a versão do docker
+```shell
+docker --version
+```
+4. Usar o docker com Hello World
+```shell
+docker run hello-world
+```
+![[Pasted image 20240623223246.png]]
+5. Mostrar as imagens de docker que já baixou:
+```shell
+docker image ls
+```
+![[Pasted image 20240623223502.png]]
+6. Parar um container
+```shell
+docker container stop {ID container}
+```
