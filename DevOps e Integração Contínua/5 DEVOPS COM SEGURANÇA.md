@@ -1,3 +1,4 @@
+#devops #terraform #nuvem
 #  Princípios de segurança em DevOps
 ## <span style="color:#00FA9A">■ Princípios de segurança</span>
 - Integração e entrega contínua

@@ -1,3 +1,4 @@
+#devops #terraform #nuvem
 ![[Pasted image 20240626221934.png|500]]
 ![[Pasted image 20240626222100.png|500]]
 

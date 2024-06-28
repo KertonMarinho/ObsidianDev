@@ -1,3 +1,4 @@
+#devops #terraform #nuvem
 #  🤖MÁQUINAS VIRTUAIS E SUA UTILIDADE EM DEVOPS
 ## <span style="color:orange">■ Máquinas virtuais de Tipo 1(Bare Metal)</span>
 - Essa VMs são executadas diretamente sobre o hardware, sem a necessidade deum sistema operacional hospedeiro. O hipervisor age como um sistema operacional dedicado para gerenciar a execução das VMs. Isso resulta em melhor desempenho e eficiência, sendo comumente utilizado em ambiente de produção e servidores

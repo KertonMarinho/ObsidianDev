@@ -1,3 +1,4 @@
+#devops #terraform #nuvem
 >[!summary] Mark Hornbeek
 >"Sem boas práticas de design, uma implementação Devops não tem esperança de cumprir sua promessa de acelerar a inovação com alta qualidade e escala."
 

@@ -1,3 +1,4 @@
+#devops #terraform #nuvem
 # O QUE É DEVOPS E POR QUE ELE IMPORTA
 ## <span style="color:violet">■ O Início do DevOps</span> 
 - Em, 2008, Patrick Debois propôs discutir métodos para solucionar os conflitos entre desenvolvimento e operações de TI.
