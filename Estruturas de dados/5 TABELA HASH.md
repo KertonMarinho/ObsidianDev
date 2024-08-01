@@ -67,11 +67,14 @@ for fruta in caderno.keys():
 ![[Pasted image 20240610222254.png|300]]
 - Em que K é uma chave qualquer, n é o tamanho do array, e MOD representa o resto de uma divisão.
 ![[Pasted image 20240610222455.png|500]]
+- Exemplo de hash com número telefônico 
+- ![[Pasted image 20240713115741.png]]
+
 ---
 # Hash universal
-
+#### O uso de uma única função hash pode resultar em uma situação em que todas as chaves precisam ser inseridas na mesma posição, gerando colisão e, consequentemente, piorando o desempenho do algoritmo.
 ![[Pasted image 20240610222925.png|500]]
-- O uso de uma única função hash pode resultar em uma situação em que todas as chaves precisam ser inseridas na mesma posição, gerando colisão e, consequentemente, piorando o desempenho do algoritmo.
+
 - Para minimizar esse problema, adotamos um conjunto H de funções hash. Sorteamos uma função dentro da classe de funções disponíveis para fazer a inserção do dado.
 ![[Pasted image 20240610223349.png]]
 ---
