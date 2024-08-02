@@ -94,9 +94,22 @@
 ---
 ## <span style="color:#FF4500">HortonWorks Data Plataform</span>
 - O que será instalado:
-	- Imagem Hadoop pré-instalado
+	- Imagem Hadoop pré-instalado (sandbox)
+- Três versões:
 	- Virtualbox, VMWare, Docker
 	- Network: Bridge Adapter
-# paraou no -30:28
-
-
+- Passos:
+1. Instale Cloudera
+![[Pasted image 20240801220541.png]]
+2. Selecione para fins acadêmicos:
+![[Pasted image 20240801220639.png]]
+3. Abre o oracle vm virtualbox
+![[Pasted image 20240801221008.png]]
+4. Importar o arquivo hadoop
+![[Pasted image 20240801221108.png]]
+![[Pasted image 20240801221143.png]]
+demorar um pouco para instalar:
+![[Pasted image 20240801225400.png]]
+![[Pasted image 20240801225451.png]]
+# parou no -22:L20
+instale o hadoop no oracle
