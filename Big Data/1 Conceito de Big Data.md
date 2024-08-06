@@ -111,5 +111,14 @@
 demorar um pouco para instalar:
 ![[Pasted image 20240801225400.png]]
 ![[Pasted image 20240801225451.png]]
-# parou no -22:L20
-instale o hadoop no oracle
+
+# <span style="color:yellow">Admin Password Reset</span>
+- Utiliza um terminal via web `` Shell Web Client``
+```
+sandbox-hdp.hortonworks.com:4200
+```
+root / hadoop
+- `#` ambari-admin-password-reset
+
+
+parou em 19.08

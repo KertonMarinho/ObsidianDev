@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/1 Conceito de Big Data.md",
+                "file": "Big Data/2 HADOOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/1 Conceito de Big Data.md",
+                "file": "Big Data/2 HADOOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/1 Conceito de Big Data.md",
+                "file": "Big Data/2 HADOOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/1 Conceito de Big Data.md"
+                "file": "Big Data/2 HADOOP.md"
               }
             }
           }
@@ -201,19 +201,24 @@
   },
   "active": "ef8aff235490e838",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240801225451.png",
-    "Anexos/Pasted image 20240801225400.png",
-    "Anexos/Pasted image 20240801221143.png",
-    "Anexos/Pasted image 20240801221108.png",
-    "Anexos/Pasted image 20240801221008.png",
-    "Anexos/Pasted image 20240801220639.png",
-    "Anexos/Pasted image 20240801220541.png",
+    "Anexos/Pasted image 20240805224439.png",
     "Cores Markedown.md",
+    "Big Data/2 HADOOP.md",
+    "Anexos/Pasted image 20240805224111.png",
+    "Anexos/Pasted image 20240805223716.png",
+    "Anexos/Pasted image 20240805222615.png",
+    "Anexos/Pasted image 20240805222042.png",
+    "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
+    "Anexos/Pasted image 20240512212712.png",
+    "Anexos/Pasted image 20240512212848.png",
+    "Anexos/Pasted image 20240512213055.png",
+    "Anexos/Pasted image 20240512213410.png",
+    "Anexos/Pasted image 20240512212310.png",
+    "Anexos/Pasted image 20240512213446.png",
+    "teclas simbolos.md",
+    "Comandos Markdown.md",
     "Big Data/1 Conceito de Big Data.md",
-    "Anexos/Pasted image 20240731224853.png",
-    "Anexos/Pasted image 20240731224659.png",
-    "Anexos/Pasted image 20240731224550.png",
-    "Anexos/Pasted image 20240731224430.png",
+    "Metodologia de design e concepção",
     "Sem título.md",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
     "Big Data.md",
@@ -229,17 +234,13 @@
     "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS..md",
     "DevOps e Integração Contínua/4 Máquina virtuais, Containers (Dockers) e Kubernetes.md",
     "DevOps e Integração Contínua/5 DEVOPS COM SEGURANÇA.md",
-    "teclas simbolos.md",
     "Estruturas de dados/6 GRAFOS.md",
     "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
-    "Comandos Markdown.md",
     "Sem título 1",
     "Comandos do terminal do windows.md",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
     "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
     "Estruturas de dados",
-    "ENGENHARIA DE SOFTWARE/10 DEVOPS.md",
-    "ENGENHARIA DE SOFTWARE/GITFLOW.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "ENGENHARIA DE SOFTWARE",
@@ -247,7 +248,6 @@
     "DevOps e Integração Contínua",
     "fundamentos da programação WEB",
     "Análise de sistemas",
-    "Desenvolvimento mobile/Android Studio",
-    "Desenvolvimento mobile"
+    "Desenvolvimento mobile/Android Studio"
   ]
 }
