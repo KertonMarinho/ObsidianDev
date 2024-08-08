@@ -6,6 +6,7 @@
       {
         "id": "40ed8c8525d7b8cb",
         "type": "tabs",
+        "dimension": 49.555837563451774,
         "children": [
           {
             "id": "38ce1cf2b7785a67",
@@ -37,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/2 HADOOP.md",
+                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,6 +60,7 @@
       {
         "id": "39b5c732107a4fe0",
         "type": "tabs",
+        "dimension": 50.444162436548226,
         "children": [
           {
             "id": "2b34855fcd4ffeef",
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/2 HADOOP.md",
+                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/2 HADOOP.md",
+                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/2 HADOOP.md"
+                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md"
               }
             }
           }
@@ -201,21 +203,21 @@
   },
   "active": "ef8aff235490e838",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240805224439.png",
     "Cores Markedown.md",
+    "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
+    "teclas simbolos.md",
+    "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
     "Big Data/2 HADOOP.md",
+    "Anexos/Pasted image 20240805224439.png",
     "Anexos/Pasted image 20240805224111.png",
     "Anexos/Pasted image 20240805223716.png",
     "Anexos/Pasted image 20240805222615.png",
     "Anexos/Pasted image 20240805222042.png",
-    "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
     "Anexos/Pasted image 20240512212712.png",
     "Anexos/Pasted image 20240512212848.png",
     "Anexos/Pasted image 20240512213055.png",
     "Anexos/Pasted image 20240512213410.png",
     "Anexos/Pasted image 20240512212310.png",
-    "Anexos/Pasted image 20240512213446.png",
-    "teclas simbolos.md",
     "Comandos Markdown.md",
     "Big Data/1 Conceito de Big Data.md",
     "Metodologia de design e concepção",

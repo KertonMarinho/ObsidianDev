@@ -94,3 +94,11 @@
 - Fluxo de dados por vários componentes Hadoop
 - Agendamento e execução de trabalhos
 - Grafos acíclicos direcionados
+
+---
+---
+# AULA PRÁTICA - COMO UTILIZAR O HDFS
+- Importar dados:
+https://grouplens.org/datasets/
+- MovieLens Dataset
+parou  no -42:58
