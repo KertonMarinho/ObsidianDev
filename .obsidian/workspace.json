@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
+                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
+                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
+                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md"
+                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md"
               }
             }
           }
@@ -203,22 +203,25 @@
   },
   "active": "ef8aff235490e838",
   "lastOpenFiles": [
+    "Anexos/Pasted image 20240808225245.png",
+    "Anexos/Pasted image 20240808225036.png",
     "Cores Markedown.md",
-    "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
-    "teclas simbolos.md",
-    "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
+    "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
+    "Anexos/Pasted image 20240808224651.png",
+    "Anexos/Pasted image 20240808223905.png",
+    "Anexos/Pasted image 20240808223240.png",
     "Big Data/2 HADOOP.md",
+    "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
+    "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
+    "Anexos/Pasted image 20240808215447.png",
+    "Comandos Markdown.md",
+    "Comandos do terminal do windows.md",
+    "teclas simbolos.md",
     "Anexos/Pasted image 20240805224439.png",
     "Anexos/Pasted image 20240805224111.png",
     "Anexos/Pasted image 20240805223716.png",
     "Anexos/Pasted image 20240805222615.png",
     "Anexos/Pasted image 20240805222042.png",
-    "Anexos/Pasted image 20240512212712.png",
-    "Anexos/Pasted image 20240512212848.png",
-    "Anexos/Pasted image 20240512213055.png",
-    "Anexos/Pasted image 20240512213410.png",
-    "Anexos/Pasted image 20240512212310.png",
-    "Comandos Markdown.md",
     "Big Data/1 Conceito de Big Data.md",
     "Metodologia de design e concepção",
     "Sem título.md",
@@ -239,9 +242,6 @@
     "Estruturas de dados/6 GRAFOS.md",
     "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
     "Sem título 1",
-    "Comandos do terminal do windows.md",
-    "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
-    "ENGENHARIA DE SOFTWARE/5 PONTOS DE CASOS DE USO.md",
     "Estruturas de dados",
     "Sem título 1.canvas",
     "Sem título.canvas",
