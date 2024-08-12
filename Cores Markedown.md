@@ -1,59 +1,28 @@
-<span style="color:aquamarine">aquamarine</span>
+## Melhores cores
+<span style="color:6B8E23">OliveDrab</span>
+```
+<span style="color:6B8E23">OliveDrab</span>
 ```
 <span style="color:aquamarine">aquamarine</span>
 ```
-
+<span style="color:aquamarine">aquamarine</span>
+```
 <span style="color:orange">orange</span>
 ```
 <span style="color:orange">Exemplo:</span>
 ```
-
 <span style="color:yellow">yellow</span>.
 ```
 <span style="color:yellow">yellow</span>
 ```
-
-<span style="color:#BDB76B">DarkKhaki</span>
-```
-<span style="color:#BDB76B">DarkKhaki</span>
-```
-
-<span style="color:khaki">khaki</span>
-```
-<span style="color:khaki">khaki</span>
-```
-
-<span style="color:brown">brown</span>
-```
-<span style="color:brown">brown</span>
-```
-
-<span style="color:pink">brown</span> 
-```
-<span style="color:pink">brown</span> 
-```
-
-<span style="color:purple">purple</span> 
-```
-<span style="color:purple">purple</span> 
-```
-
-
 <span style="color:salmon">salmon</span> 
 ```
 <span style="color:salmon">salmon</span> 
 ```
-
-<span style="color:green">green</span> 
-```
-<span style="color:green">green</span> 
-```
-
 <span style="color:aquamarine">aquamarine</span> 
 ```
 <span style="color:aquamarine">aquamarine</span> 
 ```
-
 ## <span style="color:#32CD32">LimeGreen</span> 
 ```
  <span style="color:#32CD32">LimeGreen</span> 
@@ -103,6 +72,92 @@
 ```
 <span style="color:#FF4500">OrangeRed</span>
 ```
+## <span style="color:#32CD32">LimeGreen</span> 
+```
+ <span style="color:#32CD32">LimeGreen</span> 
+```
+<span style="color:red">red</span> 
+```
+<span style="color:red">red</span> 
+```
+
+<span style="color:violet">violet</span> 
+```
+<span style="color:violet">violet</span> 
+```
+
+<span style="color: #00FF00">lime</span> 
+```
+<span style="color: #00FF00">lime</span> 
+```
+
+## <span style="color:#00FA9A">MediumSpringGreen</span>
+
+```
+<span style="color:#00FA9A">MediumSpringGreen</span>
+```
+
+## <span style="color:#20B2AA">LightSeaGreen</span>
+```
+<span style="color:#20B2AA">LightSeaGreen</span>
+```
+
+## <span style="color:#00BFFF">DeepSkyBlue</span>
+
+```
+<span style="color:#00BFFF">DeepSkyBlue</span>
+```
+
+## <span style="color:#40E0D0">MediumTurquoise</span>
+```
+<span style="color:#40E0D0">MediumTurquoise</span>
+```
+
+## <span style="color:#8A2BE2">BlueViolet</span> 
+```
+<span style="color:#8A2BE2">BlueViolet</span>
+```
+## <span style="color:#FF4500">OrangeRed</span>
+```
+<span style="color:#FF4500">OrangeRed</span>
+```
+## Cores diversas
+<span style="color:#BDB76B">DarkKhaki</span>
+```
+<span style="color:#BDB76B">DarkKhaki</span>
+```
+
+<span style="color:khaki">khaki</span>
+```
+<span style="color:khaki">khaki</span>
+```
+
+<span style="color:brown">brown</span>
+```
+<span style="color:brown">brown</span>
+```
+
+<span style="color:pink">brown</span> 
+```
+<span style="color:pink">brown</span> 
+```
+
+<span style="color:purple">purple</span> 
+```
+<span style="color:purple">purple</span> 
+```
+
+
+
+
+<span style="color:green">green</span> 
+```
+<span style="color:green">green</span> 
+```
+
+
+
+
 ----
 https://www.henriqueguimaraes.com/tabela-de-cores-html-com-nome-rgb-e-hexadecimal/
 
