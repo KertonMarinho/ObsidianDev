@@ -123,3 +123,53 @@ Banco de dados NoSQL dentro do Hadoop
 ![[Pasted image 20240811225156.png]]
 ---
 # <span style="color:#FF4500">MongoDB</span>
+- Banco de dados NoSQL distribuído
+- Modelo de dados baseado em documentos
+- JSon
+- Consistência e tolerância a falhas
+- Coleções
+	- Documentos
+- Esquemas e modelagem dos dados
+	- estratégias de modelagem
+		- Modelos de dados embutidos
+		- Modelos de dados normalizados
+![[Pasted image 20240812220754.png]]
+- <span style="color:orange">particionamento:</span>
+	- Nós secundários não aumentam a escalabilidade do cluster, mas a disponibilidade
+	- Múltiplos conjuntos de replicação
+	- Cluster
+	- Partição(shard)
+	- Servidores de configuração
+
+---
+---
+# MOTORES DE CONSULTA SQL
+#### Aplicações que fazem acesso a diversos banco de dados para retornar uma única consulta ou resultado.
+## <span style="color:#FF4500">■ Drill</span>
+- Modelo de dados em formato JSON
+- Suporte à sintaxe do padrão SQL:2003
+- Capaz de operar com ferramentas de BI
+- Extensão ao SQL
+- Múltiplas fontes de dados (NOSQL e sistemas de arquivos)
+## <span style="color:#FF4500">■ Drillbit</span>
+- Ambiente de execução distribuída
+- Responsável por aceitar e processar as consultas e retornas resultados
+- Pode ser instalados nos nós de diversos ambientes distribuídos, como Hadoop
+- Utiliza o ZooKeeper para coordenar o conjunto de serivços
+---
+##  <span style="color:yellow">■ Phoenix</span>
+- Consultas SQL para o HBase
+- Pode ser utilizado para OLTP
+- Oferece transações com propriedades ACID
+- Possui integração com MapReduce, Spark, Hive e Flume
+![[Pasted image 20240812222208.png|500]]
+---
+## <span style="color: #1E90FF">■ Presto</span>
+- Consulta SQL para OLAP
+- Compatível com ANSI SQL
+- Projetado pelo Facebook
+- Múltiplas fontes de dados(NoSQL, banco relacionais, sistemas de arquivos)
+#### <span style="color: #1E90FF">■ Arquitetura Presto</span>
+- Nó coordenador
+- Nós trabalhadores
+- Esquemas e referência de dados são armazenados em catálogos

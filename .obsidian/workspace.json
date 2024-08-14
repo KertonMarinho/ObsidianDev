@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
+                "file": "teclas simbolos.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
+                "file": "teclas simbolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
+                "file": "teclas simbolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md"
+                "file": "teclas simbolos.md"
               }
             }
           }
@@ -203,24 +203,25 @@
   },
   "active": "ef8aff235490e838",
   "lastOpenFiles": [
+    "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
+    "teclas simbolos.md",
+    "Anexos/Pasted image 20240813224619.png",
+    "Anexos/Pasted image 20240813224505.png",
+    "Anexos/Pasted image 20240813224327.png",
     "Cores Markedown.md",
-    "Big Data/INTEGRAÇÃO COM BANCOS DE DADOS.md",
+    "Anexos/Pasted image 20240813224018.png",
+    "Anexos/Pasted image 20240813223730.png",
+    "Anexos/Pasted image 20240813223631.png",
+    "Anexos/Pasted image 20240813222129.png",
+    "Big Data/3 INTEGRAÇÃO COM BANCOS DE DADOS.md",
+    "Anexos/Pasted image 20240812222208.png",
+    "Anexos/Pasted image 20240812220754.png",
     "Anexos/Pasted image 20240811225156.png",
-    "Anexos/Pasted image 20240811214614.png",
-    "Anexos/Pasted image 20240808225245.png",
-    "Anexos/Pasted image 20240808225036.png",
-    "Anexos/Pasted image 20240808224651.png",
-    "Anexos/Pasted image 20240808223905.png",
-    "Anexos/Pasted image 20240808223240.png",
     "Big Data/2 HADOOP.md",
     "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
     "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
-    "Anexos/Pasted image 20240808215447.png",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
-    "teclas simbolos.md",
-    "Anexos/Pasted image 20240805224439.png",
-    "Anexos/Pasted image 20240805224111.png",
     "Big Data/1 Conceito de Big Data.md",
     "Metodologia de design e concepção",
     "Sem título.md",
@@ -239,7 +240,6 @@
     "DevOps e Integração Contínua/4 Máquina virtuais, Containers (Dockers) e Kubernetes.md",
     "DevOps e Integração Contínua/5 DEVOPS COM SEGURANÇA.md",
     "Estruturas de dados/6 GRAFOS.md",
-    "Estruturas de dados/4 ÁRVORE BINARIA E ARVORE AVL(ÁRVORE BINÁRIA DE BUSCA BALANCEADA).md",
     "Sem título 1",
     "Estruturas de dados",
     "Sem título 1.canvas",

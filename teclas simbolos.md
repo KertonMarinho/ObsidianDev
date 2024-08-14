@@ -35,3 +35,9 @@ MODELO:
 ### <span style="color: #00FF00">H3</span> 
 ----
 ----
+alt + 16 = ►
+▒ alt + 177
+▓ alt+178
+
+░ alt + 176
+
