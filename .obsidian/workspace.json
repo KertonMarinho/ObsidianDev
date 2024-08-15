@@ -6,7 +6,6 @@
       {
         "id": "40ed8c8525d7b8cb",
         "type": "tabs",
-        "dimension": 49.555837563451774,
         "children": [
           {
             "id": "38ce1cf2b7785a67",
@@ -38,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teclas simbolos.md",
-                "mode": "source",
+                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,25 +55,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "39b5c732107a4fe0",
-        "type": "tabs",
-        "dimension": 50.444162436548226,
-        "children": [
-          {
-            "id": "2b34855fcd4ffeef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cores Markedown.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teclas simbolos.md",
+                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teclas simbolos.md",
+                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teclas simbolos.md"
+                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md"
               }
             }
           }
@@ -203,20 +183,20 @@
   },
   "active": "ef8aff235490e838",
   "lastOpenFiles": [
-    "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
     "teclas simbolos.md",
+    "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
+    "Cores Markedown.md",
+    "Anexos/Pasted image 20240814214713.png",
+    "Anexos/Pasted image 20240814214601.png",
+    "Anexos/Pasted image 20240814212938.png",
+    "Anexos/Pasted image 20240814212433.png",
     "Anexos/Pasted image 20240813224619.png",
     "Anexos/Pasted image 20240813224505.png",
     "Anexos/Pasted image 20240813224327.png",
-    "Cores Markedown.md",
     "Anexos/Pasted image 20240813224018.png",
     "Anexos/Pasted image 20240813223730.png",
     "Anexos/Pasted image 20240813223631.png",
-    "Anexos/Pasted image 20240813222129.png",
     "Big Data/3 INTEGRAÇÃO COM BANCOS DE DADOS.md",
-    "Anexos/Pasted image 20240812222208.png",
-    "Anexos/Pasted image 20240812220754.png",
-    "Anexos/Pasted image 20240811225156.png",
     "Big Data/2 HADOOP.md",
     "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
     "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
