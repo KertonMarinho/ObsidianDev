@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38ce1cf2b7785a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps e Integração Contínua/6 DevOps com Nuvem e Infraestrutura como Código (IaC).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cc83bddc2401939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef8aff235490e838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
-                "mode": "preview",
+                "file": "Big Data/5 SPARK.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b98f57e31f4a51b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
+                "file": "Big Data/5 SPARK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
+                "file": "Big Data/5 SPARK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md"
+                "file": "Big Data/5 SPARK.md"
               }
             }
           }
@@ -183,19 +148,21 @@
   },
   "active": "ef8aff235490e838",
   "lastOpenFiles": [
-    "teclas simbolos.md",
-    "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
+    "Anexos/Pasted image 20240815223116.png",
     "Cores Markedown.md",
+    "Big Data/5 SPARK.md",
+    "Anexos/Pasted image 20240815222021.png",
+    "Anexos/Pasted image 20240815221805.png",
+    "Anexos/Pasted image 20240815221442.png",
+    "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
+    "teclas simbolos.md",
+    "Anexos/Pasted image 20240815214207.png",
+    "Anexos/Pasted image 20240815213948.png",
+    "Anexos/Pasted image 20240815211917.png",
+    "Anexos/Pasted image 20240815205035.png",
+    "Anexos/Pasted image 20240815204625.png",
     "Anexos/Pasted image 20240814214713.png",
     "Anexos/Pasted image 20240814214601.png",
-    "Anexos/Pasted image 20240814212938.png",
-    "Anexos/Pasted image 20240814212433.png",
-    "Anexos/Pasted image 20240813224619.png",
-    "Anexos/Pasted image 20240813224505.png",
-    "Anexos/Pasted image 20240813224327.png",
-    "Anexos/Pasted image 20240813224018.png",
-    "Anexos/Pasted image 20240813223730.png",
-    "Anexos/Pasted image 20240813223631.png",
     "Big Data/3 INTEGRAÇÃO COM BANCOS DE DADOS.md",
     "Big Data/2 HADOOP.md",
     "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
@@ -219,7 +186,6 @@
     "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS..md",
     "DevOps e Integração Contínua/4 Máquina virtuais, Containers (Dockers) e Kubernetes.md",
     "DevOps e Integração Contínua/5 DEVOPS COM SEGURANÇA.md",
-    "Estruturas de dados/6 GRAFOS.md",
     "Sem título 1",
     "Estruturas de dados",
     "Sem título 1.canvas",
