@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data/5 SPARK.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/5 SPARK.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Data/5 SPARK.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Data/5 SPARK.md"
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md"
               }
             }
           }
@@ -148,9 +148,18 @@
   },
   "active": "ef8aff235490e838",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240815223116.png",
+    "Anexos/Pasted image 20240911192934.png",
+    "Big Data/1 Conceito de Big Data.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA",
     "Cores Markedown.md",
+    "Big Data/3 INTEGRAÇÃO COM BANCOS DE DADOS.md",
+    "Big Data/2 HADOOP.md",
     "Big Data/5 SPARK.md",
+    "Big Data/6 outras tecnologias.md",
+    "Anexos/Pasted image 20240819222347.png",
+    "Anexos/Pasted image 20240818224011.png",
+    "Anexos/Pasted image 20240815223116.png",
     "Anexos/Pasted image 20240815222021.png",
     "Anexos/Pasted image 20240815221805.png",
     "Anexos/Pasted image 20240815221442.png",
@@ -160,16 +169,10 @@
     "Anexos/Pasted image 20240815213948.png",
     "Anexos/Pasted image 20240815211917.png",
     "Anexos/Pasted image 20240815205035.png",
-    "Anexos/Pasted image 20240815204625.png",
-    "Anexos/Pasted image 20240814214713.png",
-    "Anexos/Pasted image 20240814214601.png",
-    "Big Data/3 INTEGRAÇÃO COM BANCOS DE DADOS.md",
-    "Big Data/2 HADOOP.md",
     "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
     "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
     "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
-    "Big Data/1 Conceito de Big Data.md",
     "Metodologia de design e concepção",
     "Sem título.md",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
@@ -184,8 +187,6 @@
     "Estruturas de dados/3 LISTA ENCADEADAS, PILHAS E FILAS.md",
     "DevOps e Integração Contínua/1 O QUE É DEVOPS.md",
     "DevOps e Integração Contínua/2 GESTÃO DE BACKUP EM DEVOPS..md",
-    "DevOps e Integração Contínua/4 Máquina virtuais, Containers (Dockers) e Kubernetes.md",
-    "DevOps e Integração Contínua/5 DEVOPS COM SEGURANÇA.md",
     "Sem título 1",
     "Estruturas de dados",
     "Sem título 1.canvas",
@@ -194,7 +195,6 @@
     "Design de interação",
     "DevOps e Integração Contínua",
     "fundamentos da programação WEB",
-    "Análise de sistemas",
-    "Desenvolvimento mobile/Android Studio"
+    "Análise de sistemas"
   ]
 }
