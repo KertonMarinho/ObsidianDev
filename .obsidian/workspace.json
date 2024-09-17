@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56db8e44ae51a7bf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Anexos/Pasted image 20240916221045.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+                "file": "Anexos/Pasted image 20240916221045.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+                "file": "Anexos/Pasted image 20240916221045.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md"
+                "file": "Anexos/Pasted image 20240916221045.png"
               }
             }
           }
@@ -146,32 +157,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ef8aff235490e838",
+  "active": "56db8e44ae51a7bf",
   "lastOpenFiles": [
-    "Anexos/Pasted image 20240911192934.png",
-    "Big Data/1 Conceito de Big Data.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento 1.md",
+    "Anexos/Pasted image 20240916223448.png",
+    "Anexos/Pasted image 20240916223405.png",
+    "Anexos/Pasted image 20240916223146.png",
+    "Anexos/Pasted image 20240916222949.png",
+    "Anexos/Pasted image 20240916222750.png",
+    "Anexos/Pasted image 20240916222625.png",
+    "Comandos Markdown.md",
+    "Anexos/Pasted image 20240916222110.png",
+    "Anexos/Pasted image 20240916221934.png",
+    "Anexos/Pasted image 20240916221445.png",
+    "Anexos/Pasted image 20240916221045.png",
+    "Big Data/1 Conceito de Big Data.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA",
     "Cores Markedown.md",
     "Big Data/3 INTEGRAÇÃO COM BANCOS DE DADOS.md",
     "Big Data/2 HADOOP.md",
     "Big Data/5 SPARK.md",
     "Big Data/6 outras tecnologias.md",
-    "Anexos/Pasted image 20240819222347.png",
-    "Anexos/Pasted image 20240818224011.png",
-    "Anexos/Pasted image 20240815223116.png",
-    "Anexos/Pasted image 20240815222021.png",
-    "Anexos/Pasted image 20240815221805.png",
-    "Anexos/Pasted image 20240815221442.png",
     "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
     "teclas simbolos.md",
-    "Anexos/Pasted image 20240815214207.png",
-    "Anexos/Pasted image 20240815213948.png",
-    "Anexos/Pasted image 20240815211917.png",
-    "Anexos/Pasted image 20240815205035.png",
     "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
     "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
-    "Comandos Markdown.md",
     "Comandos do terminal do windows.md",
     "Metodologia de design e concepção",
     "Sem título.md",

@@ -1,3 +1,7 @@
+## Biblioteca
+Conjunto de módulos e funções que podem ser utilizadas para ampliar o uso da linguagem
+- As bibliotecas em python são, geralmente, distribuídas como pacotes, que podem ser instalados por meio de gerenciadores de pacotes, como pip
+
 ![[Pasted image 20240911192934.png]]
 
 ---
@@ -7,3 +11,26 @@
 - O numpy trabalha como a idea de vetores (arrays), conhecidos como ndarrays  
 - Com a diferença que ndarrays só trabalham com dados do mesmo tipo que lembram muito as listas do python.  
 - Outra vantagem: por trabalhar com um só tipo de dado, o ndarray tem um desempenho muito melhor se comparado com listas
+
+---
+# VERSIONAMENTO
+- Para criar um novo repositório no git here
+![[Pasted image 20240916215926.png]]
+![[Pasted image 20240916221445.png]]
+
+![[Pasted image 20240916221045.png]]
+![[Pasted image 20240916221934.png]]![[Pasted image 20240916222110.png]]
+>[!info]
+>FEATURE - RECURSO QUE SERÁ UTILIZADO
+
+- CRIAR UMA NOVA BRUNCH:
+![[Pasted image 20240916222625.png]]
+
+![[Pasted image 20240916222750.png]]
+- IR PSRA UMA VERSÃO BRUNCH:
+![[Pasted image 20240916222949.png]]
+![[Pasted image 20240916223146.png]]``galho = desvio
+- Como colocar as features no main:
+![[Pasted image 20240916223405.png]]
+selecione a feature:
+![[Pasted image 20240916223448.png]]
