@@ -34,3 +34,36 @@ Conjunto de módulos e funções que podem ser utilizadas para ampliar o uso da 
 ![[Pasted image 20240916223405.png]]
 selecione a feature:
 ![[Pasted image 20240916223448.png]]
+
+----
+# conectar ao github pelo git here
+1. crie antes um repositório no github
+2. ![[Pasted image 20240918223832.png]]
+- Quando o pc nunca foi conectdao no pc ele pede as credenciais do windoews:
+- primeiro entra com o login:
+![[Pasted image 20240918224131.png|500]]
+ -  ele abre no navegador e pode demorar, qundo der certo aparacera esta tela com as credenciais:
+![[Pasted image 20240918224256.png]]
+>[!warning]
+>Se houver problema nas credenciais apague ela do windows que retornará a pedir as credenciais:
+>Digite na barra do windows credenciais
+>![[Pasted image 20240918224502.png|500]]
+
+---
+# PARA SINCRONIZAR OS REPOSITÓRIOS:
+
+![[Pasted image 20240918224815.png]]
+
+- DEPOIS RESET A MASTER LOCAL(CLICANDO NO NOME):
+![[Pasted image 20240918225011.png]]
+- Aparece está mensagens pode clicar:
+![[Pasted image 20240918225220.png]]
+
+---
+# baixar um repositório an nuvem:
+- use o gitbush:
+
+```gitbash
+git clone <endereço>
+```
+
