@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nuvem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md"
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md"
               }
             }
           }
@@ -162,24 +162,24 @@
   },
   "active": "56db8e44ae51a7bf",
   "lastOpenFiles": [
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
+    "Anexos/Pasted image 20240911192934.png",
+    "Anexos/Pasted image 20240919215028.png",
+    "Anexos/Pasted image 20240919214949.png",
+    "Anexos/Pasted image 20240919214838.png",
+    "Anexos/Pasted image 20240919214805.png",
+    "Anexos/Pasted image 20240919214712.png",
+    "Anexos/Pasted image 20240919214456.png",
+    "Anexos/Pasted image 20240919214416.png",
     "Anexos/Pasted image 20240918225220.png",
     "Anexos/Pasted image 20240918225144.png",
-    "Anexos/Pasted image 20240918225011.png",
-    "Anexos/Pasted image 20240918224931.png",
-    "Anexos/Pasted image 20240918224815.png",
-    "Anexos/Pasted image 20240918224502.png",
     "Comandos Markdown.md",
-    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento.md",
-    "Anexos/Pasted image 20240918224256.png",
-    "Anexos/Pasted image 20240918224131.png",
-    "Anexos/Pasted image 20240918223832.png",
     "Design de interação/1 Psicologia Cognitiva.md",
     "Design de interação/0 Conceito Inicial.md",
     "Cores Markedown.md",
     "teclas simbolos.md",
-    "Anexos/Pasted image 20240916221045.png",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento 1.md",
-    "Anexos/Pasted image 20240916223448.png",
     "Big Data/1 Conceito de Big Data.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA",
     "Big Data/3 INTEGRAÇÃO COM BANCOS DE DADOS.md",

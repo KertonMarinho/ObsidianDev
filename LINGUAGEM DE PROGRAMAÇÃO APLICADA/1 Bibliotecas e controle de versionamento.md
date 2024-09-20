@@ -67,3 +67,20 @@ selecione a feature:
 git clone <endereço>
 ```
 
+---
+# CRIAR UM REPOSITÓRIO NO PYRCHAIM
+![[Pasted image 20240919214416.png]]
+- Seleciona o repositório
+- ![[Pasted image 20240919214456.png]]
+- Dar o primeiro commit
+![[Pasted image 20240919214712.png]]
+
+- Em vermelho significa que não estão salvos:
+![[Pasted image 20240919214805.png]]
+- seleciona:
+![[Pasted image 20240919214838.png]]
+- dar push
+![[Pasted image 20240919214949.png]]
+
+- vai precisar definir remoto:
+![[Pasted image 20240919215028.png]]
