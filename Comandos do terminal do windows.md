@@ -24,3 +24,6 @@ cd c:/
 ```shell
 cd c:/users/kerton
 ```
+
+# para limpar terminal
+- crtl+ L

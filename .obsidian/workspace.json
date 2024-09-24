@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
+                "file": "Comandos Markdown.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md"
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md"
               }
             }
           }
@@ -160,10 +159,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "56db8e44ae51a7bf",
+  "active": "ef8aff235490e838",
   "lastOpenFiles": [
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
-    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/INTRODUÇÃO AO PYGAME 1 SETUP.md",
+    "Comandos Markdown.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/2 INTRODUÇÃO AO PYGAME 1 SETUP.md",
+    "Comandos do terminal do windows.md",
+    "Anexos/Pasted image 20240922225515.png",
+    "Anexos/Pasted image 20240922225122.png",
     "Anexos/Pasted image 20240911192934.png",
     "Anexos/Pasted image 20240919215028.png",
     "Anexos/Pasted image 20240919214949.png",
@@ -172,9 +176,6 @@
     "Anexos/Pasted image 20240919214712.png",
     "Anexos/Pasted image 20240919214456.png",
     "Anexos/Pasted image 20240919214416.png",
-    "Anexos/Pasted image 20240918225220.png",
-    "Anexos/Pasted image 20240918225144.png",
-    "Comandos Markdown.md",
     "Design de interação/1 Psicologia Cognitiva.md",
     "Design de interação/0 Conceito Inicial.md",
     "Cores Markedown.md",
@@ -189,7 +190,6 @@
     "Big Data/4 PROCESSAMENTO DE FLUXO DE DADOS DISTRIBUÍDOS.md",
     "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
     "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
-    "Comandos do terminal do windows.md",
     "Metodologia de design e concepção",
     "Sem título.md",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
@@ -200,7 +200,6 @@
     "DevOps e Integração Contínua/6 DevOps com Nuvem e Infraestrutura como Código (IaC).md",
     "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
     "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
-    "Estruturas de dados/0 RECURSIVIDADE.md",
     "Sem título 1",
     "Estruturas de dados",
     "Sem título 1.canvas",
