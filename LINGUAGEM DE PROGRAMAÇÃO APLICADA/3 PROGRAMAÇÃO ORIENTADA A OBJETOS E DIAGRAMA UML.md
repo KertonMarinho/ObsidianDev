@@ -21,5 +21,21 @@ print(rex)
 >[!warning]
 >todos os atributos são instanciados dentro do ____init____ segundo as normas para Python
 
+### jeito certo de colocar self +atributo
+![[Pasted image 20240926191828.png]]
 
+### como ver qual classe do ojeto:
+![[Pasted image 20240926192837.png]]
+### Quando o atributo tem duas undelaine ele é protegido e não tem com modifica-lo
+![[Pasted image 20240926193101.png]]
 
+---
+# COMEÇANDO COM HERANÇA
+``TUPLE - VARIOS ELEMENTOS DENTRO DE UMA ESTRUTURA
+![[Pasted image 20240926193632.png]]![[Pasted image 20240926193930.png]]
+
+---
+# DIAGRAMA UML
+Programa para UML
+``StarUML``
+![[10202303920-A02-P06.mp4]]
