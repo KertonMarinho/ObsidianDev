@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "3559f7b3464f7136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccdc5066d0c715b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/3 PROGRAMAÇÃO ORIENTADA A OBJETOS E DIAGRAMA UML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "56db8e44ae51a7bf",
             "type": "leaf",
             "state": {
@@ -32,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/3 PROGRAMAÇÃO ORIENTADA A OBJETOS E DIAGRAMA UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/3 PROGRAMAÇÃO ORIENTADA A OBJETOS E DIAGRAMA UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md"
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/3 PROGRAMAÇÃO ORIENTADA A OBJETOS E DIAGRAMA UML.md"
               }
             }
           }
@@ -159,11 +184,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ef8aff235490e838",
+  "active": "ccdc5066d0c715b9",
   "lastOpenFiles": [
-    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
     "Comandos Markdown.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/3 PROGRAMAÇÃO ORIENTADA A OBJETOS E DIAGRAMA UML.md",
+    "Sem título.md",
+    "Anexos/Pasted image 20240925221326.png",
+    "Anexos/Pasted image 20240925221242.png",
+    "Cores Markedown.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
+    "Anexos/Pasted image 20240925212446.png",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/2 INTRODUÇÃO AO PYGAME 1 SETUP.md",
     "Comandos do terminal do windows.md",
     "Anexos/Pasted image 20240922225515.png",
@@ -173,12 +204,8 @@
     "Anexos/Pasted image 20240919214949.png",
     "Anexos/Pasted image 20240919214838.png",
     "Anexos/Pasted image 20240919214805.png",
-    "Anexos/Pasted image 20240919214712.png",
-    "Anexos/Pasted image 20240919214456.png",
-    "Anexos/Pasted image 20240919214416.png",
     "Design de interação/1 Psicologia Cognitiva.md",
     "Design de interação/0 Conceito Inicial.md",
-    "Cores Markedown.md",
     "teclas simbolos.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Bibliotecas e controle de versionamento 1.md",
     "Big Data/1 Conceito de Big Data.md",
@@ -191,15 +218,12 @@
     "Metodologia de design e concepção/2 REQUISITOS DE INTERAÇÃO.md",
     "Metodologia de design e concepção/1. METODOLOGIA DO DESIGN.md",
     "Metodologia de design e concepção",
-    "Sem título.md",
     "3 CONTINUOS INTEGRATIO, CONTINOUS DELIVERY (CI, CD).md",
     "Big Data.md",
     "Big Data",
     "DevOps e Integração Contínua/3 Continuous Integratios, Continuous Delivery.md",
     "Estruturas de dados/5 TABELA HASH.md",
     "DevOps e Integração Contínua/6 DevOps com Nuvem e Infraestrutura como Código (IaC).md",
-    "Estruturas de dados/2 ALGORITMO DE ORDENAÇÃO.md",
-    "Estruturas de dados/1 ALGORITMO DE BUSCA E COMPEXIDADE DE ALGORITMOS.md",
     "Sem título 1",
     "Estruturas de dados",
     "Sem título 1.canvas",

@@ -13,5 +13,23 @@ window = pygame.display.set_mode(size = (600, 480))
 > [!SUMMARY] pep 8
 > Para que o código siga as boas práticas de fabricação do código seguindo a norma PEP 8(regras e boas práticas para escrever um código legível em Python) use a tecla de atalho ``crtl+alt+L``,ela organiza todo o código de acordo com a PEP 8
 
+4. cria um loop para que a janela não fechar na incialização do programa:
+```
+while True:
+	pass
+```
+5.  Para ter certeza que esta funcionado colque alguns prints:
+![[Pasted image 20240925212446.png]]
 
-paou no 46,49, nãp feito 123
+6. colocar um evento e ficar checando de eventos em uma variável
+```python
+while True:
+	#check for all events
+	for event in pygame.event.get():
+		if event.type == pygame.QUIT:
+			pygame.quit() #Close window
+			quit() # end pygame
+```
+
+7. Cria o arquivo git ignore,
+- pega no site www.gitignore.io , o arquivo gitignore padrão do python(pesquisando python)
