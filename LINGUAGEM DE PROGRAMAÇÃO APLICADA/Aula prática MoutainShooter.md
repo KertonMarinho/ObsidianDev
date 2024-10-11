@@ -33,3 +33,5 @@ while True:
 
 7. Cria o arquivo git ignore,
 - pega no site www.gitignore.io , o arquivo gitignore padrão do python(pesquisando python)
+----
+criando um pacote package

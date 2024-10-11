@@ -19,7 +19,7 @@ virtualenv env
 ```
 3. ativando a venv(tanto para VsCode como para Pychaim)
 ``` shell
-.venv\scripts\active
+.venv/Scripts/activate
   # se não tiver oculto não use o p[onto]
 ```
 4. Desativando a venv

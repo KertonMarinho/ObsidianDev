@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "Anexos",
+  "attachmentFolderPath": "./anexos",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
