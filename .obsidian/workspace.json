@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/6 SQLITE3, json E DESIGN Pattern  estrutural.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/6 SQLITE3, json E DESIGN Pattern  estrutural.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/6 SQLITE3, json E DESIGN Pattern  estrutural.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/6 SQLITE3, json E DESIGN Pattern  estrutural.md"
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md"
               }
             }
           }
@@ -186,10 +186,11 @@
   },
   "active": "ccdc5066d0c715b9",
   "lastOpenFiles": [
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/6 SQLITE3, json E DESIGN Pattern  estrutural.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/anexos/Pasted image 20241010231514.png",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
-    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/6 SQLITE3, json E DESIGN Pattern  estrutural.md",
-    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
     "Anexos/Pasted image 20230914221035.png",
     "Anexos/Pasted image 20230914220635 1.png",
     "Anexos/Pasted image 20230914220635.png",
@@ -199,7 +200,6 @@
     "Anexos/Pasted image 20230913222617 1.png",
     "Anexos/Pasted image 20230922215912 1.png",
     "Anexos/Pasted image 20230922215912.png",
-    "Anexos/Pasted image 20230922215407 1.png",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/anexos",
     "Comandos Markdown.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/5 EVENTOS, DECORATORS, LIST COMPREHENSION E DESIGN PATTERN COMPORTAMENTAL.md",
