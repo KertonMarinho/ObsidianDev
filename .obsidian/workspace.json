@@ -16,7 +16,9 @@
                 "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Aula prática MoutainShooter"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1 Bibliotecas e controle de versionamento"
             }
           },
           {
@@ -37,10 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/2 INTRODUÇÃO AO PYGAME 1 SETUP.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2 INTRODUÇÃO AO PYGAME 1 SETUP"
+            }
+          },
+          {
+            "id": "7f5f6e5f4b467951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula prática MoutainShooter"
             }
           },
           {
@@ -53,11 +73,13 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Comandos Markdown"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +99,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -92,7 +116,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -100,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -123,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +159,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Aula prática MoutainShooter"
             }
           },
           {
@@ -140,10 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Aula prática MoutainShooter"
             }
           },
           {
@@ -154,7 +186,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,8 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md"
-              }
+                "file": "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Aula prática MoutainShooter"
             }
           }
         ]
@@ -184,10 +220,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ccdc5066d0c715b9",
+  "active": "7f5f6e5f4b467951",
   "lastOpenFiles": [
-    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/freeze.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/Aula prática MoutainShooter.md",
+    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/6 SQLITE3, json E DESIGN Pattern  estrutural.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/anexos/Pasted image 20241010231514.png",
     "ENGENHARIA DE SOFTWARE/3 ARQUITETURA DE SOFTWARE.md",
@@ -208,7 +245,6 @@
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/4 MÓDULOS, HERANÇA, DESIGN PATTERN CRIACIONAL.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/2 INTRODUÇÃO AO PYGAME 1 SETUP.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/3 PROGRAMAÇÃO ORIENTADA A OBJETOS E DIAGRAMA UML.md",
-    "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
     "programas isntaldados.md",
     "Anexos/10202303920-A02-P06.mp4",
     "Sem título.md",

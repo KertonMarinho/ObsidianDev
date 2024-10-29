@@ -35,3 +35,14 @@ while True:
 - pega no site www.gitignore.io , o arquivo gitignore padrão do python(pesquisando python)
 ----
 criando um pacote package
+
+---
+A4 (00:00:41)
+- criar o mediator (7:47)
+- tiros e colisões(26:57)
+-  criar os tiros dos players
+- criar tios dos enemies(52:35)
+A5
+- Implementar colisões e tiros(00:02;02)
+- HUD
+- Score
