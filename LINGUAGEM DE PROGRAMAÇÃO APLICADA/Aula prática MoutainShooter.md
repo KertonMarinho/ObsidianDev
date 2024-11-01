@@ -42,7 +42,11 @@ A4 (00:00:41)
 - tiros e colisões(26:57)
 -  criar os tiros dos players
 - criar tios dos enemies(52:35)
-A5
+A5(parte 1)
 - Implementar colisões e tiros(00:02;02)
-- HUD
+- HUD(00:45:24)
 - Score
+A5(parte 2)
+- inserir uma fase
+- level em nosso jogo
+
