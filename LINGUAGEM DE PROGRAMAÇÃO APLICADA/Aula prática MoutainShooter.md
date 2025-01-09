@@ -50,3 +50,6 @@ A5(parte 2)
 - inserir uma fase
 - level em nosso jogo
 
+A6(parte1)
+- Apresentar o score na tela = 3;07
+- Implementar as conexÕes com o banco de dados para gravar o score25:02

@@ -78,8 +78,7 @@
               "title": "Comandos Markdown"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +219,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f5f6e5f4b467951",
+  "active": "ef8aff235490e838",
   "lastOpenFiles": [
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/2 INTRODUÇÃO AO PYGAME 1 SETUP.md",
     "LINGUAGEM DE PROGRAMAÇÃO APLICADA/1 Bibliotecas e controle de versionamento.md",
